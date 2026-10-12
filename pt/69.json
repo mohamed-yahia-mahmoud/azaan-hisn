@@ -1,0 +1,20 @@
+{
+ "Súplica antes de comer.": [
+  {
+   "ID": 178,
+   "ARABIC_TEXT": "((إِذَا أَكَلَ أَحَدُكُمْ طَعَاماً فَلْيَقُلْ بِسْمِ اللَّهِ، فَإِنْ نَسِيَ فِي أَوَّلِهِ فَلْيَقُلْ بسمِ اللَّهِ فِي أَوَّلِهِ وَآخِرِهِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Quando alguém de vocês se alimentar, que diga:“Em nome de Allah.” E se esquecer-se de dizer no começo, pois então diga:“Em nome de Allah, em seu começo (quando começar a ingerir o alimento) e em seu final”",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/178.mp3"
+  },
+  {
+   "ID": 179,
+   "ARABIC_TEXT": "((مَنْ أَطْعَمَهُ اللَّهُ الطَّعَامَ فَلْيَقُلْ: اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَأَطْعِمْنَا خَيْراً مِنْهُ، وَمَنْ سَقَاهُ اللَّهُ لَبَناً فَلْيَقُلْ اللَّهُمَّ بَارِكْ لَنَا فِيهِ وَزِدْنَا مِنْهُ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Quem Allah alimentá-lo com comida, diga:“Ó Allah, abençoa-o para nós, e alimenta-nos com algo melhor que ele”. E quem beber leite, diga:“Ó Allah, abençoa-o para nós, e dá-nos mas dele”.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/179.mp3"
+  }
+ ]
+}

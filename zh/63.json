@@ -1,0 +1,28 @@
+{
+ "求雨时念的祷词": [
+  {
+   "ID": 169,
+   "ARABIC_TEXT": "((اللَّهُمَّ اسْقِنَا غَيْثاً مُغِيثاً مَرِيئاً مَرِيعاً، نَافِعاً غَيْرَ ضَارٍّ، عَاجِلاً غَيْرَ آجِلٍ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "主啊！你给我们降下充足的、无灾的、丰产的、普及的、及不缓慢的，有益无害的甘霖吧！（艾布·达伍德圣训集）",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/169.mp3"
+  },
+  {
+   "ID": 170,
+   "ARABIC_TEXT": "((اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "主啊！降賜甘霖吧！（三次）（布哈里、穆斯林圣训集）",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/170.mp3"
+  },
+  {
+   "ID": 171,
+   "ARABIC_TEXT": "((اللَّهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَأَحْيِي بَلَدَكَ الْمَيِّتَ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "主啊！求你给你的仆民和牲畜下甘霖，求你散布你的怜悯，求你复活已干枯的大地。（艾布·达伍德圣训集）",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/171.mp3"
+  }
+ ]
+}

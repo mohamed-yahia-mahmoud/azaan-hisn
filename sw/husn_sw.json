@@ -1,0 +1,796 @@
+{
+ "Kiswahili": [
+  {
+   "ID": 27,
+   "TITLE": "Nyiradi za asubuhi na jioni",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_028.mp3",
+   "TEXT": "27.json"
+  },
+  {
+   "ID": 28,
+   "TITLE": "Nyiradi za wakati wa kulala",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_029.mp3",
+   "TEXT": "28.json"
+  },
+  {
+   "ID": 1,
+   "TITLE": "Dua ya kuamka kutoka usingizini",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_002.mp3",
+   "TEXT": "1.json"
+  },
+  {
+   "ID": 6,
+   "TITLE": "Dua ya kuingia chooni",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_007.mp3",
+   "TEXT": "6.json"
+  },
+  {
+   "ID": 7,
+   "TITLE": "Dua ya kutoka chooni",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_008.mp3",
+   "TEXT": "7.json"
+  },
+  {
+   "ID": 8,
+   "TITLE": "Dua kabla ya kutawadha",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_009.mp3",
+   "TEXT": "8.json"
+  },
+  {
+   "ID": 9,
+   "TITLE": "Dua baada ya kutawadha",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_010.mp3",
+   "TEXT": "9.json"
+  },
+  {
+   "ID": 10,
+   "TITLE": "Dua ya kutoka nyumbani",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_011.mp3",
+   "TEXT": "10.json"
+  },
+  {
+   "ID": 11,
+   "TITLE": "Dua ya kuingia nyumbani",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_012.mp3",
+   "TEXT": "11.json"
+  },
+  {
+   "ID": 12,
+   "TITLE": "Dua ya kwenda Msikitini",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_013.mp3",
+   "TEXT": "12.json"
+  },
+  {
+   "ID": 13,
+   "TITLE": "Dua ya kuingia Msikitini",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_014.mp3",
+   "TEXT": "13.json"
+  },
+  {
+   "ID": 14,
+   "TITLE": "Dua ya kutoka Msikitini",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_015.mp3",
+   "TEXT": "14.json"
+  },
+  {
+   "ID": 15,
+   "TITLE": "Dua za adhana",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_016.mp3",
+   "TEXT": "15.json"
+  },
+  {
+   "ID": 2,
+   "TITLE": "Dua ya kuvaa nguo",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_003.mp3",
+   "TEXT": "2.json"
+  },
+  {
+   "ID": 3,
+   "TITLE": "Dua ya kuvaa nguo mpya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_004.mp3",
+   "TEXT": "3.json"
+  },
+  {
+   "ID": 4,
+   "TITLE": "Dua unayo muombea aliyevaa nguo mpya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_005.mp3",
+   "TEXT": "4.json"
+  },
+  {
+   "ID": 5,
+   "TITLE": "Dua ya kuvua nguo",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_006.mp3",
+   "TEXT": "5.json"
+  },
+  {
+   "ID": 16,
+   "TITLE": "Dua za kufungulia sala",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_017.mp3",
+   "TEXT": "16.json"
+  },
+  {
+   "ID": 17,
+   "TITLE": "Dua ya wakati wa kurukuu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_018.mp3",
+   "TEXT": "17.json"
+  },
+  {
+   "ID": 18,
+   "TITLE": "Dua ya kuinuka kutoka kwenye rukuu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_019.mp3",
+   "TEXT": "18.json"
+  },
+  {
+   "ID": 19,
+   "TITLE": "Dua ya wakati wa kusujudu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_020.mp3",
+   "TEXT": "19.json"
+  },
+  {
+   "ID": 20,
+   "TITLE": "Dua za kikao kati ya sijda mbili",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_021.mp3",
+   "TEXT": "20.json"
+  },
+  {
+   "ID": 21,
+   "TITLE": "Dua za sijda ya kisomo",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_022.mp3",
+   "TEXT": "21.json"
+  },
+  {
+   "ID": 22,
+   "TITLE": "Dua ya tashahhud",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_023.mp3",
+   "TEXT": "22.json"
+  },
+  {
+   "ID": 23,
+   "TITLE": "Kumsalia Mtume (s.a.w) baada ya tashahhud",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_024.mp3",
+   "TEXT": "23.json"
+  },
+  {
+   "ID": 24,
+   "TITLE": "Dua baada ya tashahhud ya mwisho kabla ya salam",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_025.mp3",
+   "TEXT": "24.json"
+  },
+  {
+   "ID": 25,
+   "TITLE": "Nyiradi baada ya kutoa salam (kumaliza swala)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_026.mp3",
+   "TEXT": "25.json"
+  },
+  {
+   "ID": 26,
+   "TITLE": "Dua ya swalatul-Istikhara (swala ya kutaka maelekezo au kutaka ushauri katika jambo)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_027.mp3",
+   "TEXT": "26.json"
+  },
+  {
+   "ID": 29,
+   "TITLE": "Dua unapojigeuza kutoka usingizini usiku",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_030.mp3",
+   "TEXT": "29.json"
+  },
+  {
+   "ID": 30,
+   "TITLE": "Dua ya wasiwasi usingizini au kusikia uoga na mfazaiko",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_031.mp3",
+   "TEXT": "30.json"
+  },
+  {
+   "ID": 31,
+   "TITLE": "Anayoyafanya mwenye kuota ndoto njema au mbaya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_032.mp3",
+   "TEXT": "31.json"
+  },
+  {
+   "ID": 32,
+   "TITLE": "Dua ya Qunut ya witri",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_033.mp3",
+   "TEXT": "32.json"
+  },
+  {
+   "ID": 33,
+   "TITLE": "Dua baada ya salamu katika swala ya witri",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_034.mp3",
+   "TEXT": "33.json"
+  },
+  {
+   "ID": 34,
+   "TITLE": "Dua ukiwa na hamu na huzuni",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_035.mp3",
+   "TEXT": "34.json"
+  },
+  {
+   "ID": 35,
+   "TITLE": "Dua ya kupatwa na janga au balaa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_036.mp3",
+   "TEXT": "35.json"
+  },
+  {
+   "ID": 36,
+   "TITLE": "Dua ya anaekutana na adui au mwenye kutawala",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_037.mp3",
+   "TEXT": "36.json"
+  },
+  {
+   "ID": 37,
+   "TITLE": "Dua ya mwenye kuogopa dhulma ya mwenye kutawala",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_038.mp3",
+   "TEXT": "37.json"
+  },
+  {
+   "ID": 38,
+   "TITLE": "Kuomba dua dhidi ya adui",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_039.mp3",
+   "TEXT": "38.json"
+  },
+  {
+   "ID": 39,
+   "TITLE": "Dua ya anewaogopa watu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_040.mp3",
+   "TEXT": "39.json"
+  },
+  {
+   "ID": 40,
+   "TITLE": "Dua ya aliyepatwa na shaka katika imani yake",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_041.mp3",
+   "TEXT": "40.json"
+  },
+  {
+   "ID": 41,
+   "TITLE": "Dua ya kulipa deni",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_042.mp3",
+   "TEXT": "41.json"
+  },
+  {
+   "ID": 42,
+   "TITLE": "Dua ya aliyeingiwa na wasiwasi katika swala yake au kisomo chake",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_043.mp3",
+   "TEXT": "42.json"
+  },
+  {
+   "ID": 43,
+   "TITLE": "Dua ya ambae limekuwa gumu kwake jambo",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_044.mp3",
+   "TEXT": "43.json"
+  },
+  {
+   "ID": 44,
+   "TITLE": "Analosema aliyefanya dhambi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_045.mp3",
+   "TEXT": "44.json"
+  },
+  {
+   "ID": 45,
+   "TITLE": "Dua ya kumfukuza shetani na wasiwasi wake",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_046.mp3",
+   "TEXT": "45.json"
+  },
+  {
+   "ID": 46,
+   "TITLE": "Dua anayoisoma mtu akitokewa na jambo asiloliridhia au akishindwa kufanya jambo",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_047.mp3",
+   "TEXT": "46.json"
+  },
+  {
+   "ID": 47,
+   "TITLE": "Pongezi ya kupata mtoto, na jawabu lake",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_048.mp3",
+   "TEXT": "47.json"
+  },
+  {
+   "ID": 48,
+   "TITLE": "Dua wanayo kingwa nayo watoto",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_049.mp3",
+   "TEXT": "48.json"
+  },
+  {
+   "ID": 49,
+   "TITLE": "Dua ya kumtembelea mgonjwa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_050.mp3",
+   "TEXT": "49.json"
+  },
+  {
+   "ID": 50,
+   "TITLE": "Fadhila za kumtembelea mgonjwa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_051.mp3",
+   "TEXT": "50.json"
+  },
+  {
+   "ID": 51,
+   "TITLE": "Dua anayoomba mgonjwa aliyekata tamaa ya kupona",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_052.mp3",
+   "TEXT": "51.json"
+  },
+  {
+   "ID": 52,
+   "TITLE": "Kumlakinia anaetokwa na roho",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_053.mp3",
+   "TEXT": "52.json"
+  },
+  {
+   "ID": 53,
+   "TITLE": "Dua ya aliyepatwa na msiba",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_054.mp3",
+   "TEXT": "53.json"
+  },
+  {
+   "ID": 54,
+   "TITLE": "Dua ya kumfunga macho maiti",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_055.mp3",
+   "TEXT": "54.json"
+  },
+  {
+   "ID": 55,
+   "TITLE": "Dua ya kumuombea maiti wakati anaposwaliwa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_056.mp3",
+   "TEXT": "55.json"
+  },
+  {
+   "ID": 56,
+   "TITLE": "Dua ya maiti ya mtoto mchanga wakati wa kumswalia",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_057.mp3",
+   "TEXT": "56.json"
+  },
+  {
+   "ID": 57,
+   "TITLE": "Dua ya kumhani aliyefiwa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_058.mp3",
+   "TEXT": "57.json"
+  },
+  {
+   "ID": 58,
+   "TITLE": "Dua ya kumuingiza maiti ndani ya kaburi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_059.mp3",
+   "TEXT": "58.json"
+  },
+  {
+   "ID": 59,
+   "TITLE": "Dua baada ya kumzika maiti",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_060.mp3",
+   "TEXT": "59.json"
+  },
+  {
+   "ID": 60,
+   "TITLE": "Dua ya kuzuru makaburi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_061.mp3",
+   "TEXT": "60.json"
+  },
+  {
+   "ID": 61,
+   "TITLE": "Dua ya upepo mkali",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_062.mp3",
+   "TEXT": "61.json"
+  },
+  {
+   "ID": 62,
+   "TITLE": "Dua ya radi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_063.mp3",
+   "TEXT": "62.json"
+  },
+  {
+   "ID": 63,
+   "TITLE": "Dua ya kuomba mvua",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_064.mp3",
+   "TEXT": "63.json"
+  },
+  {
+   "ID": 64,
+   "TITLE": "Dua ya mvua inaponyesha",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_065.mp3",
+   "TEXT": "64.json"
+  },
+  {
+   "ID": 65,
+   "TITLE": "Dua baada ya mvua",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_066.mp3",
+   "TEXT": "65.json"
+  },
+  {
+   "ID": 66,
+   "TITLE": "Dua ya kutaka mvua iondoke (wakati itakapoleta madhara)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_067.mp3",
+   "TEXT": "66.json"
+  },
+  {
+   "ID": 67,
+   "TITLE": "Dua ya kuona mwezi unapoandama",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_068.mp3",
+   "TEXT": "67.json"
+  },
+  {
+   "ID": 68,
+   "TITLE": "Dua ya wakati wa kufungua swaumu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_069.mp3",
+   "TEXT": "68.json"
+  },
+  {
+   "ID": 69,
+   "TITLE": "Dua kabla ya kula",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_070.mp3",
+   "TEXT": "69.json"
+  },
+  {
+   "ID": 70,
+   "TITLE": "Dua baada ya kula",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_071.mp3",
+   "TEXT": "70.json"
+  },
+  {
+   "ID": 71,
+   "TITLE": "Dua ya mgeni kwa aliyemkaribisha chakula",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_072.mp3",
+   "TEXT": "71.json"
+  },
+  {
+   "ID": 72,
+   "TITLE": "Dua ya kumuombea aliyekupa kinywaji au anetaka kukupa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_073.mp3",
+   "TEXT": "72.json"
+  },
+  {
+   "ID": 73,
+   "TITLE": "Dua ya kumuombea uliye futuru kwake",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_074.mp3",
+   "TEXT": "73.json"
+  },
+  {
+   "ID": 74,
+   "TITLE": "Dua ya aliyealikwa chakula lakini akawa amefunga",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_075.mp3",
+   "TEXT": "74.json"
+  },
+  {
+   "ID": 75,
+   "TITLE": "Anachosema aliyetukanwa hali ya kuwa amefunga",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_076.mp3",
+   "TEXT": "75.json"
+  },
+  {
+   "ID": 76,
+   "TITLE": "Dua ya kuomba unapoona matunda yanachipua kwenye miti",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_077.mp3",
+   "TEXT": "76.json"
+  },
+  {
+   "ID": 77,
+   "TITLE": "Dua ya kupiga chafya (kuchemua)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_078.mp3",
+   "TEXT": "77.json"
+  },
+  {
+   "ID": 78,
+   "TITLE": "Anachoambiwa kafiri anapopiga chafya (chemua)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_079.mp3",
+   "TEXT": "78.json"
+  },
+  {
+   "ID": 79,
+   "TITLE": "Dua ya kumuombea aliyeoa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_080.mp3",
+   "TEXT": "79.json"
+  },
+  {
+   "ID": 80,
+   "TITLE": "Dua anayoomba bwana harusi, au aliyenunua chombo cha kupanda (kama mnyama au gari)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_081.mp3",
+   "TEXT": "80.json"
+  },
+  {
+   "ID": 81,
+   "TITLE": "Dua kabla ya kujimai (kufanya tendo la ndoa)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_082.mp3",
+   "TEXT": "81.json"
+  },
+  {
+   "ID": 82,
+   "TITLE": "Dua wakati mtu amekasirika",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_083.mp3",
+   "TEXT": "82.json"
+  },
+  {
+   "ID": 83,
+   "TITLE": "Dua anayoomba mwenye kumuona kilema",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_084.mp3",
+   "TEXT": "83.json"
+  },
+  {
+   "ID": 84,
+   "TITLE": "Utajo unaosomwa katika kikao",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_085.mp3",
+   "TEXT": "84.json"
+  },
+  {
+   "ID": 85,
+   "TITLE": "Kafara ya kikao",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_086.mp3",
+   "TEXT": "85.json"
+  },
+  {
+   "ID": 86,
+   "TITLE": "Kumuombea dua anaekuombea msamaha kwa Mwenyezi Mungu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_087.mp3",
+   "TEXT": "86.json"
+  },
+  {
+   "ID": 87,
+   "TITLE": "Dua ya kumuombea aliyekufanyia wema",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_088.mp3",
+   "TEXT": "87.json"
+  },
+  {
+   "ID": 88,
+   "TITLE": "Dua ya kujikinga na dajjal",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_089.mp3",
+   "TEXT": "88.json"
+  },
+  {
+   "ID": 89,
+   "TITLE": "Dua ya kumuombea anaekwambia anakupenda kwa ajili ya Mwenyezi Mungu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_090.mp3",
+   "TEXT": "89.json"
+  },
+  {
+   "ID": 90,
+   "TITLE": "Dua ya kumuombea aliyekusaidia kwa mali",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_091.mp3",
+   "TEXT": "90.json"
+  },
+  {
+   "ID": 91,
+   "TITLE": "Dua unapolipa deni",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_091.mp3",
+   "TEXT": "91.json"
+  },
+  {
+   "ID": 92,
+   "TITLE": "Dua ya kuogopa kuingia katika ushirikina",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_092.mp3",
+   "TEXT": "92.json"
+  },
+  {
+   "ID": 93,
+   "TITLE": "Dua kwa aliyesema Mwenyezi Mungu akubariki",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_094.mp3",
+   "TEXT": "93.json"
+  },
+  {
+   "ID": 94,
+   "TITLE": "Dua ya kuchukia ndege mbaya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_095.mp3",
+   "TEXT": "94.json"
+  },
+  {
+   "ID": 95,
+   "TITLE": "Dua ya kupanda mnyama au chombo chochote cha kusafiria",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_096.mp3",
+   "TEXT": "95.json"
+  },
+  {
+   "ID": 96,
+   "TITLE": "Dua ya safari",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_097.mp3",
+   "TEXT": "96.json"
+  },
+  {
+   "ID": 97,
+   "TITLE": "Dua ya kuingia mjini au kijijini",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_098.mp3",
+   "TEXT": "97.json"
+  },
+  {
+   "ID": 98,
+   "TITLE": "Dua ya kuingia sokoni",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_099.mp3",
+   "TEXT": "98.json"
+  },
+  {
+   "ID": 99,
+   "TITLE": "Dua wakati mnyama uliyempanda akileta tabu (au chombo cha safari)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_100.mp3",
+   "TEXT": "99.json"
+  },
+  {
+   "ID": 100,
+   "TITLE": "Dua ya anaesafiri kuwaombea wakaazi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_101.mp3",
+   "TEXT": "100.json"
+  },
+  {
+   "ID": 101,
+   "TITLE": "Dua ya wakaazi wanayo muombea anaesafiri",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_102.mp3",
+   "TEXT": "101.json"
+  },
+  {
+   "ID": 102,
+   "TITLE": "Kumkumbuka Mwenyezi Mungu wakati wa kuipanda milima na wakati wa kushuka",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_103.mp3",
+   "TEXT": "102.json"
+  },
+  {
+   "ID": 103,
+   "TITLE": "Dua ya msafiri unapoingia usiku",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_104.mp3",
+   "TEXT": "103.json"
+  },
+  {
+   "ID": 104,
+   "TITLE": "Dua ya msafiri akishuka sehemu wakati yuko safarini",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_105.mp3",
+   "TEXT": "104.json"
+  },
+  {
+   "ID": 105,
+   "TITLE": "Dua ya msafiri akirudi kutoka safarini",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_106.mp3",
+   "TEXT": "105.json"
+  },
+  {
+   "ID": 106,
+   "TITLE": "Anachosema mtu iliyemjia habari ya kufurahisha au kusikitisha",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_107.mp3",
+   "TEXT": "106.json"
+  },
+  {
+   "ID": 107,
+   "TITLE": "Fadhila za kumswalia Mtume (s.a.w)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_108.mp3",
+   "TEXT": "107.json"
+  },
+  {
+   "ID": 108,
+   "TITLE": "Fadhila za kueneza na kudhihirisha maamkizi ya kiislamu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_109.mp3",
+   "TEXT": "108.json"
+  },
+  {
+   "ID": 109,
+   "TITLE": "Namna ya kumrudishia salamu kafiri anapokusalimia",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_110.mp3",
+   "TEXT": "109.json"
+  },
+  {
+   "ID": 110,
+   "TITLE": "Dua ukisikia mlio wa jogoo au wa punda",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_111.mp3",
+   "TEXT": "110.json"
+  },
+  {
+   "ID": 111,
+   "TITLE": "Dua wakati wa kusikia mlio wa mbwa usiku",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_112.mp3",
+   "TEXT": "111.json"
+  },
+  {
+   "ID": 112,
+   "TITLE": "Dua unayomuombea uliyemtukana",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_113.mp3",
+   "TEXT": "112.json"
+  },
+  {
+   "ID": 113,
+   "TITLE": "Anachosema muislamu akimsifu muislamu mwenziwe",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_114.mp3",
+   "TEXT": "113.json"
+  },
+  {
+   "ID": 114,
+   "TITLE": "Anachosema muislamu akisifiwa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_115.mp3",
+   "TEXT": "114.json"
+  },
+  {
+   "ID": 115,
+   "TITLE": "Vipi ataleta talbiyah aliyehirimia kwaajili ya hijjah au umrah",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_116.mp3",
+   "TEXT": "115.json"
+  },
+  {
+   "ID": 116,
+   "TITLE": "Takbira atakapofika katika hajar al-as'wad (katika alkaaba)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_117.mp3",
+   "TEXT": "116.json"
+  },
+  {
+   "ID": 117,
+   "TITLE": "Dua inayosomwa baina ya nguzo ya yemeni na hajar al-as'wad (katika alkaaba)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_118.mp3",
+   "TEXT": "117.json"
+  },
+  {
+   "ID": 118,
+   "TITLE": "Dua ya kusomwa ukiwa umesimama katika mlima wa swafaa na mar'wah",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_119.mp3",
+   "TEXT": "118.json"
+  },
+  {
+   "ID": 119,
+   "TITLE": "Dua ya siku ya arafah",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_120.mp3",
+   "TEXT": "119.json"
+  },
+  {
+   "ID": 120,
+   "TITLE": "Utajo katika mash-arul haram (muzdalifa)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_121.mp3",
+   "TEXT": "120.json"
+  },
+  {
+   "ID": 121,
+   "TITLE": "Takbira anaporusha kila jiwe katika jamarah (nguzo)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_122.mp3",
+   "TEXT": "121.json"
+  },
+  {
+   "ID": 122,
+   "TITLE": "Anachosema wakati wa kustaajabu na wakati wa furaha",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_123.mp3",
+   "TEXT": "122.json"
+  },
+  {
+   "ID": 123,
+   "TITLE": "Anachofanya akipata habari ya kufurahisha",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_124.mp3",
+   "TEXT": "123.json"
+  },
+  {
+   "ID": 124,
+   "TITLE": "Anachosema na kufanya anaposikia maumivu mwilini",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_125.mp3",
+   "TEXT": "124.json"
+  },
+  {
+   "ID": 125,
+   "TITLE": "Anachosema anaeogopa kupatwa na kijicho",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_126.mp3",
+   "TEXT": "125.json"
+  },
+  {
+   "ID": 126,
+   "TITLE": "Kinachosemwa wakati wa mfazaiko",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_127.mp3",
+   "TEXT": "126.json"
+  },
+  {
+   "ID": 127,
+   "TITLE": "Anachosema wakati wa kuchinja",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_128.mp3",
+   "TEXT": "127.json"
+  },
+  {
+   "ID": 128,
+   "TITLE": "Anachosema kwa ajili ya kurudisha (kuzuwia) vitimbi vya mashetani wabaya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_129.mp3",
+   "TEXT": "128.json"
+  },
+  {
+   "ID": 129,
+   "TITLE": "Kuomba msamaha na kutubia",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_130.mp3",
+   "TEXT": "129.json"
+  },
+  {
+   "ID": 130,
+   "TITLE": "Fadhila za tasbiih, tahmiid, tahliil na takbiir",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_131.mp3",
+   "TEXT": "130.json"
+  },
+  {
+   "ID": 131,
+   "TITLE": "Vipi alikuwa Mtume (s.a.w) akimsabbih Mwenyezi Mungu?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_132.mp3",
+   "TEXT": "131.json"
+  },
+  {
+   "ID": 132,
+   "TITLE": "Katika mambo ya kheri na adabu kwa ujumla",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_133.mp3",
+   "TEXT": "132.json"
+  }
+ ]
+}

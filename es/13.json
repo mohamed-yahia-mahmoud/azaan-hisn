@@ -1,0 +1,12 @@
+{
+ "Súplica al entrar a la Mezquita": [
+  {
+   "ID": 20,
+   "ARABIC_TEXT": "(يَبْدَأُ بِرِجْلِهِ الْيُمْنَى) ، وَيَقُولُ: ((أَعُوذُ بِاللَّهِ العَظِيمِ، وَبِوَجْهِهِ الْكَرِيمِ، وَسُلْطَانِهِ الْقَدِيمِ، مِنَ الشَّيْطَانِ الرَّجِيمِ))  [بِسْمِ اللَّهِ، وَالصَّلَاةُ] [وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ]  ((اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Ingresa con el pie derecho y dice: “Me refugio en Allah, el Magnífico, en Su rostro generoso y en Su eterno dominio del maldito demonio.” “En el nombre de Allah.” “La paz y las bendiciones de Allah sean con su Mensajero.” “¡Oh Allah! Ábreme las puertas de Tu misericordia.”",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/20.mp3"
+  }
+ ]
+}

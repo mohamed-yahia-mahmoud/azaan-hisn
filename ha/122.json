@@ -1,0 +1,20 @@
+{
+ "Abinda zai ce alokacin mamaki da farin ciki": [
+  {
+   "ID": 240,
+   "ARABIC_TEXT": "((سُبْحَانَ اللَّهِ!)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Tsarki ya tabbata ga Alla",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/240.mp3"
+  },
+  {
+   "ID": 241,
+   "ARABIC_TEXT": "((اللَّهُ أَكْبَرُ!)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": ": Allah ne mafi girma",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/241.mp3"
+  }
+ ]
+}

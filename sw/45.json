@@ -1,0 +1,28 @@
+{
+ "Dua ya kumfukuza shetani na wasiwasi wake": [
+  {
+   "ID": 141,
+   "ARABIC_TEXT": "((الْاسْتِعَاذَةُ بِاللَّهِ مِنْهُ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Mambo yafuatayo yanatakiwa kufuatwa pindi anapotolewa shetani:\r\n\r\n''Kumuomba Mwenyezi Mungu akuhifadhi nae''.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/141.mp3"
+  },
+  {
+   "ID": 142,
+   "ARABIC_TEXT": "الْأَذَانُ",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Kumuadhinia.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/142.mp3"
+  },
+  {
+   "ID": 143,
+   "ARABIC_TEXT": "((الْأَذْكَارُ وَقِرَاءَةُ الْقُرْآنِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Kusoma nyiradi zilizopokewa kutoka kwa Mtume (s.a.w) na kusoma Qur,ani.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/143.mp3"
+  }
+ ]
+}

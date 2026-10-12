@@ -1,0 +1,20 @@
+{
+ "دعا برای مریض هنگام عیادتش": [
+  {
+   "ID": 147,
+   "ARABIC_TEXT": "((لاَ بأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "«هیچ باکى نیست، این بیمارى به خواست خداوند، پاک کنندۀ «گناهان» است».",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/147.mp3"
+  },
+  {
+   "ID": 148,
+   "ARABIC_TEXT": "((أَسْأَلُ اللَّهَ الْعَظيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفيَكَ)) (سبع مرات).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "«از خداوند عظیم، پروردگار عرش بزرگ، می‌خواهم که تو را شفا دهد». (هفت بار بخواند)",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/148.mp3"
+  }
+ ]
+}

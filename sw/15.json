@@ -1,0 +1,44 @@
+{
+ "Dua za adhana": [
+  {
+   "ID": 22,
+   "ARABIC_TEXT": " يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إِلاَّ فِي ((حَيَّ عَلَى الصَّلَاةِ وَحَيَّ عَلَى الْفَلَاحِ)) فَيقُولُ: ((لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Mtu akisikia Muadhini anaadhini anatakiwa aseme kama anavyosema Muadhini, ila atakaposema: ''Hayya ala swalaah'' (yaani) 'Njooni katika swala'. ''Hayya alal falaah'' (yaani) 'Njooni kwenye mafanikio'. yeye hatomfuatisha, bali anatakiwa aseme: Laa haula walaa quwwata illa biLlah. (Yaani): Hapana uwezo wala nguvu ila za Mwenyezi Mungu.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/22.mp3"
+  },
+  {
+   "ID": 23,
+   "ARABIC_TEXT": " يَقُولُ: ((وَأَنَا أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ، رَضِيتُ بِاللَّهِ رَبَّاً، وَبِمُحَمَّدٍ رَسُولاً، وَبِالْإِسْلاَمِ دِينَاً)) ((يَقُولُ ذَلِكَ عَقِبَ تَشَهُّدِ الْمُؤَذِّنِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Muadhini akisema: Ash-hadu anlaa ilaha illa Llaah, ash-hadu anna Muhammada Rrasuulu Llaah, anatakiwa mtu aseme: Na mimi pia nakiri kwa moyo na kusema kwa ulimi ya kwamba hapana Mola apasae kuabudiwa kwa haki, isipokuwa Mwenyezi Mungu mmoja peke yake, hana mshirika wake, na kwamba Muhammad ni mja wake, na ni Mtume wake, nimeridhia kuwa Mwenyezi Mungu ndie Mola wangu, na kuwa Muhammad ni Mtume wangu, na kuwa Uislamu ndiyo dini yangu.\r\n\r\nAnayasema hayo mwisho wa Adhana.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/23.mp3"
+  },
+  {
+   "ID": 24,
+   "ARABIC_TEXT": " ((يُصَلِّي عَلَى النَّبِيِّ صلى الله عليه وسلم بَعْدَ فَرَاغِهِ مِنْ إِجَابَةِ الْمُؤَذِّنِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "(24) Kisha baada ya kumjibu Muadhini atamswalia Mtume (s.a.w),",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/24.mp3"
+  },
+  {
+   "ID": 25,
+   "ARABIC_TEXT": "يَقُولُ: ((اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلاَةِ الْقَائِمَةِ، آتِ مُحَمَّداً الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامَاً مَحمُوداً الَّذِي وَعَدْتَهُ، [إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ])).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "(Kisha baada ya kumswalia Mtume) (s.a.w) atasema:\r\n\r\nEwe Mwenyezi Mungu Mola wa mlingano (mwito) huu uliotimia, na sala iliyosimama, mpe (Mtume) Muhammad wasila, na fadhila, na mfikishe daraja lenye kusifiwa, ambalo umemuahidi, (kwani wewe hukhalifu ahadi).",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/25.mp3"
+  },
+  {
+   "ID": 26,
+   "ARABIC_TEXT": "((يَدْعُو لِنَفسِهِ بَيْنَ الْأَذَانِ وَالْإِقَامَةِ فَإِنَّ الدُّعَاءَ حِينَئِذٍ لاَ يُرَدُّ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Inafaa kwa mtu kujiombea kati ya Adhana na Iqamah, kwani dua kati ya Adhana na Iqamah hairudishwi.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/26.mp3"
+  }
+ ]
+}

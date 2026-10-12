@@ -1,0 +1,796 @@
+{
+ "हिन्दी": [
+  {
+   "ID": 27,
+   "TITLE": "सुबह और शाम के अज़कार और दुआएँ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_028.mp3",
+   "TEXT": "27.json"
+  },
+  {
+   "ID": 28,
+   "TITLE": "सोने के समय की दुआएँ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_029.mp3",
+   "TEXT": "28.json"
+  },
+  {
+   "ID": 1,
+   "TITLE": "नींद से जागने के बाद की दुआएं",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_002.mp3",
+   "TEXT": "1.json"
+  },
+  {
+   "ID": 6,
+   "TITLE": "शौचालय (बैतुल-खला) में दाखिल होने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_007.mp3",
+   "TEXT": "6.json"
+  },
+  {
+   "ID": 7,
+   "TITLE": "शौचालय (बैतुल-खला) से निकलने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_008.mp3",
+   "TEXT": "7.json"
+  },
+  {
+   "ID": 8,
+   "TITLE": "वुजू शुरु करने से पहले की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_009.mp3",
+   "TEXT": "8.json"
+  },
+  {
+   "ID": 9,
+   "TITLE": "वुजू से फारिग होने के बाद की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_010.mp3",
+   "TEXT": "9.json"
+  },
+  {
+   "ID": 10,
+   "TITLE": "घर से निकलते समय की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_011.mp3",
+   "TEXT": "10.json"
+  },
+  {
+   "ID": 11,
+   "TITLE": "घर में दाखिल होते समय की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_012.mp3",
+   "TEXT": "11.json"
+  },
+  {
+   "ID": 12,
+   "TITLE": "मस्जिद में दाखिल होने की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_013.mp3",
+   "TEXT": "12.json"
+  },
+  {
+   "ID": 13,
+   "TITLE": "मस्जिद में दाखिल होने की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_014.mp3",
+   "TEXT": "13.json"
+  },
+  {
+   "ID": 14,
+   "TITLE": "मस्जिद से निकलने की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_015.mp3",
+   "TEXT": "14.json"
+  },
+  {
+   "ID": 15,
+   "TITLE": "अजान की दुआएँ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_016.mp3",
+   "TEXT": "15.json"
+  },
+  {
+   "ID": 2,
+   "TITLE": "कपड़ा पहनने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_003.mp3",
+   "TEXT": "2.json"
+  },
+  {
+   "ID": 3,
+   "TITLE": "नया कपड़ा पहनने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_004.mp3",
+   "TEXT": "3.json"
+  },
+  {
+   "ID": 4,
+   "TITLE": "नया कपड़ा पहनने वाले को क्या दुआ दी जाए",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_005.mp3",
+   "TEXT": "4.json"
+  },
+  {
+   "ID": 5,
+   "TITLE": "कपड़ा उतारे तो क्या पढ़े",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_006.mp3",
+   "TEXT": "5.json"
+  },
+  {
+   "ID": 16,
+   "TITLE": "नमाज़ शुरू करने की दुआएँ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_017.mp3",
+   "TEXT": "16.json"
+  },
+  {
+   "ID": 17,
+   "TITLE": "रुकूअ की दुआएँ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_018.mp3",
+   "TEXT": "17.json"
+  },
+  {
+   "ID": 18,
+   "TITLE": "रुकूअ से उठने की दुआएँ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_019.mp3",
+   "TEXT": "18.json"
+  },
+  {
+   "ID": 19,
+   "TITLE": "सजदे की दुआएँ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_020.mp3",
+   "TEXT": "19.json"
+  },
+  {
+   "ID": 20,
+   "TITLE": "दोनों सजदों के बीच बैठने की दुआएँ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_021.mp3",
+   "TEXT": "20.json"
+  },
+  {
+   "ID": 21,
+   "TITLE": "सजदा तिलावत की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_022.mp3",
+   "TEXT": "21.json"
+  },
+  {
+   "ID": 22,
+   "TITLE": "तशह्हुद की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_023.mp3",
+   "TEXT": "22.json"
+  },
+  {
+   "ID": 23,
+   "TITLE": "तशह्हुद के बाद नबी सल्लल्लाहु अलैहि व सल्लम पर दुरूद शरीफ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_024.mp3",
+   "TEXT": "23.json"
+  },
+  {
+   "ID": 24,
+   "TITLE": "आखिरी तशह्हुद के बाद और सलाम फेरने से पहले की दुआएँ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_025.mp3",
+   "TEXT": "24.json"
+  },
+  {
+   "ID": 25,
+   "TITLE": "नमाज़ से सलाम फेरने के बाद की दुआएँ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_026.mp3",
+   "TEXT": "25.json"
+  },
+  {
+   "ID": 26,
+   "TITLE": "नमाज़े इस्तिख़ारा की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_027.mp3",
+   "TEXT": "26.json"
+  },
+  {
+   "ID": 29,
+   "TITLE": "रात को करवट बदलते समय की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_030.mp3",
+   "TEXT": "29.json"
+  },
+  {
+   "ID": 30,
+   "TITLE": "नींद में बेचैनी और घब्राहट की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_031.mp3",
+   "TEXT": "30.json"
+  },
+  {
+   "ID": 31,
+   "TITLE": "कोई आदमी बुरा ख्वाब (स्वप्न) देखे तो क्या करे?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_032.mp3",
+   "TEXT": "31.json"
+  },
+  {
+   "ID": 32,
+   "TITLE": "कुनूते वित्र की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_033.mp3",
+   "TEXT": "32.json"
+  },
+  {
+   "ID": 33,
+   "TITLE": "वित्र का सलाम फेरने के बाद की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_034.mp3",
+   "TEXT": "33.json"
+  },
+  {
+   "ID": 34,
+   "TITLE": "गम और फिक्र से नजात पाने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_035.mp3",
+   "TEXT": "34.json"
+  },
+  {
+   "ID": 35,
+   "TITLE": "बेक़रारी तथा बेचैनी की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_036.mp3",
+   "TEXT": "35.json"
+  },
+  {
+   "ID": 36,
+   "TITLE": "दुश्मन तथा शासन अधिकारी से मुलाक़ात के समय की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_037.mp3",
+   "TEXT": "36.json"
+  },
+  {
+   "ID": 37,
+   "TITLE": "शासक के अत्याचार से डरने वाले की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_038.mp3",
+   "TEXT": "37.json"
+  },
+  {
+   "ID": 38,
+   "TITLE": "दुश्मन पर बद्दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_039.mp3",
+   "TEXT": "38.json"
+  },
+  {
+   "ID": 39,
+   "TITLE": "जब किसी कम से डरता हो तो कौनसी दुआ पढ़े ?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_040.mp3",
+   "TEXT": "39.json"
+  },
+  {
+   "ID": 40,
+   "TITLE": "जिसे अपने ईमान में शक होने लगे तो वह यह दुआ पढ़े",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_041.mp3",
+   "TEXT": "40.json"
+  },
+  {
+   "ID": 41,
+   "TITLE": "क़र्ज (ऋण) की अदायगी के लिए दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_042.mp3",
+   "TEXT": "41.json"
+  },
+  {
+   "ID": 42,
+   "TITLE": "नमाज़ में या क़ुरआन पढ़ते समय उत्पन्न होने वाले वस्वसों से बचने की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_043.mp3",
+   "TEXT": "42.json"
+  },
+  {
+   "ID": 43,
+   "TITLE": "उस आदमी की दुआ जिस पर कोई काम मुश्किल हो जाए",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_044.mp3",
+   "TEXT": "43.json"
+  },
+  {
+   "ID": 44,
+   "TITLE": "गुनाह कर बैठे तो कौनसी दुआ पढ़े और क्या करे",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_045.mp3",
+   "TEXT": "44.json"
+  },
+  {
+   "ID": 45,
+   "TITLE": "वह दुआएँ जो शैतान तथा उसके वस्वसों को दूर करती हैं",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_046.mp3",
+   "TEXT": "45.json"
+  },
+  {
+   "ID": 46,
+   "TITLE": "नापसन्दीदा वाकिआ पेश आने या बेबसी की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_047.mp3",
+   "TEXT": "46.json"
+  },
+  {
+   "ID": 47,
+   "TITLE": "जिसके यहाँ कोई औलाद पैदा हो उसे किस प्रकार मुबारक्बाद (दुआ) दी जाए और जिसे मुबारक्बादी दी जा रही हो वह मुबारकबाद देने वाले के लिए क्या कहे",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_048.mp3",
+   "TEXT": "47.json"
+  },
+  {
+   "ID": 48,
+   "TITLE": "बच्चों को किन कलिमात के साथ अल्लाह की पनाह में दिया जाए",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_049.mp3",
+   "TEXT": "48.json"
+  },
+  {
+   "ID": 49,
+   "TITLE": "बीमार पुर्सी के वक्त मरीज़ के लिए दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_050.mp3",
+   "TEXT": "49.json"
+  },
+  {
+   "ID": 50,
+   "TITLE": "बीमार पुर्सी की फजीलत",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_051.mp3",
+   "TEXT": "50.json"
+  },
+  {
+   "ID": 51,
+   "TITLE": "उस मरीज़ की दुआ जो अपनी ज़िन्दगी से मायूस हो चुका हो",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_052.mp3",
+   "TEXT": "51.json"
+  },
+  {
+   "ID": 52,
+   "TITLE": "जो आदमी मरने के क़रीब हो उसे ला इलाहा इल्लल्लाह पढ़ाया जाए",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_053.mp3",
+   "TEXT": "52.json"
+  },
+  {
+   "ID": 53,
+   "TITLE": "जिसे कोई मुसीबत पहुँचे वह यह दुआ पढ़े",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_054.mp3",
+   "TEXT": "53.json"
+  },
+  {
+   "ID": 54,
+   "TITLE": "मैयित की आँखें बन्द करते समय की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_055.mp3",
+   "TEXT": "54.json"
+  },
+  {
+   "ID": 55,
+   "TITLE": "नमाज़े जनाज़ा की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_056.mp3",
+   "TEXT": "55.json"
+  },
+  {
+   "ID": 56,
+   "TITLE": "बच्चे पर नमाज़े जनाज़ा की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_057.mp3",
+   "TEXT": "56.json"
+  },
+  {
+   "ID": 57,
+   "TITLE": "ताज़ियत (मैयित के घर वालों को तसल्ली देने) की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_058.mp3",
+   "TEXT": "57.json"
+  },
+  {
+   "ID": 58,
+   "TITLE": "मैयित को क़ब्र में उतारते समय की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_059.mp3",
+   "TEXT": "58.json"
+  },
+  {
+   "ID": 59,
+   "TITLE": "मैयित को कब्र में दफन करने के बाद की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_060.mp3",
+   "TEXT": "59.json"
+  },
+  {
+   "ID": 60,
+   "TITLE": "कब्रों की ज़ियारत की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_061.mp3",
+   "TEXT": "60.json"
+  },
+  {
+   "ID": 61,
+   "TITLE": "आँधी की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_062.mp3",
+   "TEXT": "61.json"
+  },
+  {
+   "ID": 62,
+   "TITLE": "बादल गरजते समय पढ़ी जाने वाली दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_063.mp3",
+   "TEXT": "62.json"
+  },
+  {
+   "ID": 63,
+   "TITLE": "बारिश माँगने की कुछ दुआएँ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_064.mp3",
+   "TEXT": "63.json"
+  },
+  {
+   "ID": 64,
+   "TITLE": "बारिश उतरते समय की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_065.mp3",
+   "TEXT": "64.json"
+  },
+  {
+   "ID": 65,
+   "TITLE": "बारिश खत्म होने के बाद की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_066.mp3",
+   "TEXT": "65.json"
+  },
+  {
+   "ID": 66,
+   "TITLE": "बारिश रुकवाने के लिए दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_067.mp3",
+   "TEXT": "66.json"
+  },
+  {
+   "ID": 67,
+   "TITLE": "नया चांद देखने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_068.mp3",
+   "TEXT": "67.json"
+  },
+  {
+   "ID": 68,
+   "TITLE": "रोजा खोलते समय की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_069.mp3",
+   "TEXT": "68.json"
+  },
+  {
+   "ID": 69,
+   "TITLE": "खाना खाने से पहले की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_070.mp3",
+   "TEXT": "69.json"
+  },
+  {
+   "ID": 70,
+   "TITLE": "खाने से फारिग होने के बाद की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_071.mp3",
+   "TEXT": "70.json"
+  },
+  {
+   "ID": 71,
+   "TITLE": "मेहमान की दुआ खाना खिलाने वाले मेज़बान के लिए",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_072.mp3",
+   "TEXT": "71.json"
+  },
+  {
+   "ID": 72,
+   "TITLE": "जो आदमी कुछ पिलाए या पिलाने का इरादा करे उसके लिए दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_073.mp3",
+   "TEXT": "72.json"
+  },
+  {
+   "ID": 73,
+   "TITLE": "जब किसी घर वाले के यहाँ रोज़ा इफ्तार करे तो उनके लिए यह दुआ करे",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_074.mp3",
+   "TEXT": "73.json"
+  },
+  {
+   "ID": 74,
+   "TITLE": "दुआ जब खाना हाज़िर हो और रोज़ादार रोज़ा न खोले",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_075.mp3",
+   "TEXT": "74.json"
+  },
+  {
+   "ID": 75,
+   "TITLE": "रोज़ादार को जब कोई गाली दे तो क्या कहे",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_076.mp3",
+   "TEXT": "75.json"
+  },
+  {
+   "ID": 76,
+   "TITLE": "पहला फल देखने के समय की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_077.mp3",
+   "TEXT": "76.json"
+  },
+  {
+   "ID": 77,
+   "TITLE": "छींक की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_078.mp3",
+   "TEXT": "77.json"
+  },
+  {
+   "ID": 78,
+   "TITLE": "जब काफिर छींकते समय अल्हम्दुलिल्लाह कहे तो उसके लिए क्या कहा जाए",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_079.mp3",
+   "TEXT": "78.json"
+  },
+  {
+   "ID": 79,
+   "TITLE": "शादी करने वाले के लिए दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_080.mp3",
+   "TEXT": "79.json"
+  },
+  {
+   "ID": 80,
+   "TITLE": "शादी करने और सवारी खरीदने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_081.mp3",
+   "TEXT": "80.json"
+  },
+  {
+   "ID": 81,
+   "TITLE": "जिमाअ (संभोग) से पहल की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_082.mp3",
+   "TEXT": "81.json"
+  },
+  {
+   "ID": 82,
+   "TITLE": "गुस्सा आजाने के वक्त की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_083.mp3",
+   "TEXT": "82.json"
+  },
+  {
+   "ID": 83,
+   "TITLE": "किसी बीमारी या मुसीबत में मुब्तला आदमी को देखे तो यह दुआ पढ़े",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_084.mp3",
+   "TEXT": "83.json"
+  },
+  {
+   "ID": 84,
+   "TITLE": "मजलिस में पढ़ने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_085.mp3",
+   "TEXT": "84.json"
+  },
+  {
+   "ID": 85,
+   "TITLE": "मजलिस के गुनाह दूर करने की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_086.mp3",
+   "TEXT": "85.json"
+  },
+  {
+   "ID": 86,
+   "TITLE": "जो आदमी कहे (ग़फरल्लाहु लका)) अर्थात अल्लाह तुझे बख्श दे उसके लिए दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_087.mp3",
+   "TEXT": "86.json"
+  },
+  {
+   "ID": 87,
+   "TITLE": "जो अच्छा सुलूक करे उसके लिए दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_088.mp3",
+   "TEXT": "87.json"
+  },
+  {
+   "ID": 88,
+   "TITLE": "वह दुआ जिसे पढ़ने से आदमी दज्जाल के फित्ने से मह्फूज़ रहता है",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_089.mp3",
+   "TEXT": "88.json"
+  },
+  {
+   "ID": 89,
+   "TITLE": "जो आदमी कहे मुझे तुमसे अल्लाह के लिए मोहब्बत है उसके लिए दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_090.mp3",
+   "TEXT": "89.json"
+  },
+  {
+   "ID": 90,
+   "TITLE": "जो आदमी तुम्हारे लिए अपना माल पेश करे उसके लिए दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_091.mp3",
+   "TEXT": "90.json"
+  },
+  {
+   "ID": 91,
+   "TITLE": "क़र्ज़ (ऋण) अदा करते समय क़र्ज देनेवाले के लिए दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_091.mp3",
+   "TEXT": "91.json"
+  },
+  {
+   "ID": 92,
+   "TITLE": "शिर्क से डरने की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_092.mp3",
+   "TEXT": "92.json"
+  },
+  {
+   "ID": 93,
+   "TITLE": "जो आदमी कहेः ''अल्लाह तुझे बरकत दे'' तो उसके लिए क्या दुआ की जाये",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_094.mp3",
+   "TEXT": "93.json"
+  },
+  {
+   "ID": 94,
+   "TITLE": "बदफाली को नापसन्द करने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_095.mp3",
+   "TEXT": "94.json"
+  },
+  {
+   "ID": 95,
+   "TITLE": "सवारी पर सवार होने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_096.mp3",
+   "TEXT": "95.json"
+  },
+  {
+   "ID": 96,
+   "TITLE": "सफर की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_097.mp3",
+   "TEXT": "96.json"
+  },
+  {
+   "ID": 97,
+   "TITLE": "किसी गावँ या शहर में दाखिल होने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_098.mp3",
+   "TEXT": "97.json"
+  },
+  {
+   "ID": 98,
+   "TITLE": "बाज़ार में दाखिल होने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_099.mp3",
+   "TEXT": "98.json"
+  },
+  {
+   "ID": 99,
+   "TITLE": "सवारी के फिसलने या गिरने के समय की दुआा",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_100.mp3",
+   "TEXT": "99.json"
+  },
+  {
+   "ID": 100,
+   "TITLE": "मुसाफिर की दुआ मुक़ीम के लिए",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_101.mp3",
+   "TEXT": "100.json"
+  },
+  {
+   "ID": 101,
+   "TITLE": "मुक़ीम की दुआ मुसाफिर के लिए",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_102.mp3",
+   "TEXT": "101.json"
+  },
+  {
+   "ID": 102,
+   "TITLE": "सफर के दौरान तक्बीर और तस्बीह",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_103.mp3",
+   "TEXT": "102.json"
+  },
+  {
+   "ID": 103,
+   "TITLE": "मुसाफिर की दुआ जब सुबह करे",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_104.mp3",
+   "TEXT": "103.json"
+  },
+  {
+   "ID": 104,
+   "TITLE": "सफर के दौरान जब मुसाफिर किसी मन्ज़िल (स्थान) पर उतरे उस समय की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_105.mp3",
+   "TEXT": "104.json"
+  },
+  {
+   "ID": 105,
+   "TITLE": "सफर से वापसी की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_106.mp3",
+   "TEXT": "105.json"
+  },
+  {
+   "ID": 106,
+   "TITLE": "खुश करनेवाली या ना पसन्दीदा चीज़ पेश आने पर क्या कहे ?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_107.mp3",
+   "TEXT": "106.json"
+  },
+  {
+   "ID": 107,
+   "TITLE": "रसूलुल्लाह सल्लल्लाहु अलैहि व सल्लम पर दरूद की फज़ीलत",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_108.mp3",
+   "TEXT": "107.json"
+  },
+  {
+   "ID": 108,
+   "TITLE": "सलाम को फैलाना",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_109.mp3",
+   "TEXT": "108.json"
+  },
+  {
+   "ID": 109,
+   "TITLE": "जब काफिर सलाम कहे तो उसे किस तरह जवाब दिया जाए",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_110.mp3",
+   "TEXT": "109.json"
+  },
+  {
+   "ID": 110,
+   "TITLE": "मुर्गा बोलने और गदहा हींगने के समय की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_111.mp3",
+   "TEXT": "110.json"
+  },
+  {
+   "ID": 111,
+   "TITLE": "रात में कुत्तों का भूँकना (तथा गदहों का हींगना) सुनकर यह दुआ पढ़े",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_112.mp3",
+   "TEXT": "111.json"
+  },
+  {
+   "ID": 112,
+   "TITLE": "उस आदमी के लिए दुआ जिसे तुमने बुरा भला कहा (या गाली दी) हो",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_113.mp3",
+   "TEXT": "112.json"
+  },
+  {
+   "ID": 113,
+   "TITLE": "कोई मुस्लिम जब किसी मुस्लिम की तारीफ करे तो क्या कहे ?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_114.mp3",
+   "TEXT": "113.json"
+  },
+  {
+   "ID": 114,
+   "TITLE": "जब किसी मुसलमान आदमी की तारीफ की जाए तो वह क्या कहे ?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_115.mp3",
+   "TEXT": "114.json"
+  },
+  {
+   "ID": 115,
+   "TITLE": "हज्ज या उम्रा का एहराम बाँधने वाला कैसे तल्बिया कहे?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_116.mp3",
+   "TEXT": "115.json"
+  },
+  {
+   "ID": 116,
+   "TITLE": "हजरे अस्वद् वाले कोने पर अल्लाहु अक्बर कहना चाहिए",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_117.mp3",
+   "TEXT": "116.json"
+  },
+  {
+   "ID": 117,
+   "TITLE": "रुक्ने यमानी और हजरे अस्वद् के दरमियान की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_118.mp3",
+   "TEXT": "117.json"
+  },
+  {
+   "ID": 118,
+   "TITLE": "सफा और मरवा पर ठहरने की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_119.mp3",
+   "TEXT": "118.json"
+  },
+  {
+   "ID": 119,
+   "TITLE": "अरफा (९जुल्हिज्जा) के दिन की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_120.mp3",
+   "TEXT": "119.json"
+  },
+  {
+   "ID": 120,
+   "TITLE": "मश्अरे हराम के पास की दुआ",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_121.mp3",
+   "TEXT": "120.json"
+  },
+  {
+   "ID": 121,
+   "TITLE": "जमरात की रमी के समय हर कंकरी के साथ तक्बीर (अल्लाहु अक्बर) कहना",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_122.mp3",
+   "TEXT": "121.json"
+  },
+  {
+   "ID": 122,
+   "TITLE": "तअज्जुब या खुशी के समय की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_123.mp3",
+   "TEXT": "122.json"
+  },
+  {
+   "ID": 123,
+   "TITLE": "खुशखबरी मिलने पर क्या करे ?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_124.mp3",
+   "TEXT": "123.json"
+  },
+  {
+   "ID": 124,
+   "TITLE": "जो आदमी अपने बदन में दर्द महसूस करे वह कौन सी दुआ पढ़े ?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_125.mp3",
+   "TEXT": "124.json"
+  },
+  {
+   "ID": 125,
+   "TITLE": "जिसको अपनी ही नज़र लगने का भय हो तो वह क्या करे ?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_126.mp3",
+   "TEXT": "125.json"
+  },
+  {
+   "ID": 126,
+   "TITLE": "घबराहट के समय क्या कहा जाए?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_127.mp3",
+   "TEXT": "126.json"
+  },
+  {
+   "ID": 127,
+   "TITLE": "आम जानवर या ऊँट ज़बह करते वक्त की दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_128.mp3",
+   "TEXT": "127.json"
+  },
+  {
+   "ID": 128,
+   "TITLE": "सरकश शैतानों की खुफिया तदबीरों के तोड़ के लिए दुआ ।",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_129.mp3",
+   "TEXT": "128.json"
+  },
+  {
+   "ID": 129,
+   "TITLE": "तौबा व इस्तिगफार करना (अल्लाह से बख्शिश और माफी माँगना)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_130.mp3",
+   "TEXT": "129.json"
+  },
+  {
+   "ID": 130,
+   "TITLE": "तस्बीह (सुब्हानल्लाह), तह्मीद (अल्हमदुलिल्लाह), तह्लील (ला इलाहा इल्लल्लाह) और तक्बीर (अल्लाहु अक्बर कहने) की फज़ीलत",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_131.mp3",
+   "TEXT": "130.json"
+  },
+  {
+   "ID": 131,
+   "TITLE": "नबी सल्लल्लाहु अलैहि व सल्लम तस्बीह कैसे पढ़ते थे?",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_132.mp3",
+   "TEXT": "131.json"
+  },
+  {
+   "ID": 132,
+   "TITLE": "अनेक प्रकार की नेकियाँ और जामिअ आदाब",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_133.mp3",
+   "TEXT": "132.json"
+  }
+ ]
+}

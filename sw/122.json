@@ -1,0 +1,20 @@
+{
+ "Anachosema wakati wa kustaajabu na wakati wa furaha": [
+  {
+   "ID": 240,
+   "ARABIC_TEXT": "((سُبْحَانَ اللَّهِ!)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Ametakasika Mwenyezi Mungu.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/240.mp3"
+  },
+  {
+   "ID": 241,
+   "ARABIC_TEXT": "((اللَّهُ أَكْبَرُ!)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Mwenyezi Mungu ni Mkubwa.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/241.mp3"
+  }
+ ]
+}

@@ -1,0 +1,796 @@
+{
+ "中文": [
+  {
+   "ID": 27,
+   "TITLE": "早、晚的记主词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_028.mp3",
+   "TEXT": "27.json"
+  },
+  {
+   "ID": 28,
+   "TITLE": "睡觉时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_029.mp3",
+   "TEXT": "28.json"
+  },
+  {
+   "ID": 1,
+   "TITLE": "睡醒时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_002.mp3",
+   "TEXT": "1.json"
+  },
+  {
+   "ID": 6,
+   "TITLE": "进厠所时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_007.mp3",
+   "TEXT": "6.json"
+  },
+  {
+   "ID": 7,
+   "TITLE": "出厠所后念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_008.mp3",
+   "TEXT": "7.json"
+  },
+  {
+   "ID": 8,
+   "TITLE": "洗小净前念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_009.mp3",
+   "TEXT": "8.json"
+  },
+  {
+   "ID": 9,
+   "TITLE": "洗毕小净念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_010.mp3",
+   "TEXT": "9.json"
+  },
+  {
+   "ID": 10,
+   "TITLE": "出屋时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_011.mp3",
+   "TEXT": "10.json"
+  },
+  {
+   "ID": 11,
+   "TITLE": "进屋时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_012.mp3",
+   "TEXT": "11.json"
+  },
+  {
+   "ID": 12,
+   "TITLE": "去清真寺时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_013.mp3",
+   "TEXT": "12.json"
+  },
+  {
+   "ID": 13,
+   "TITLE": "入清真寺时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_014.mp3",
+   "TEXT": "13.json"
+  },
+  {
+   "ID": 14,
+   "TITLE": "出清真寺时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_015.mp3",
+   "TEXT": "14.json"
+  },
+  {
+   "ID": 15,
+   "TITLE": "听见宣礼词时念的赞词及宣礼后的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_016.mp3",
+   "TEXT": "15.json"
+  },
+  {
+   "ID": 2,
+   "TITLE": "穿衣服时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_003.mp3",
+   "TEXT": "2.json"
+  },
+  {
+   "ID": 3,
+   "TITLE": "穿新衣服念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_004.mp3",
+   "TEXT": "3.json"
+  },
+  {
+   "ID": 4,
+   "TITLE": "见他人穿新衣服时该说的言词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_005.mp3",
+   "TEXT": "4.json"
+  },
+  {
+   "ID": 5,
+   "TITLE": "脱衣服念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_006.mp3",
+   "TEXT": "5.json"
+  },
+  {
+   "ID": 16,
+   "TITLE": "开拜时的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_017.mp3",
+   "TEXT": "16.json"
+  },
+  {
+   "ID": 17,
+   "TITLE": "鞠躬中的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_018.mp3",
+   "TEXT": "17.json"
+  },
+  {
+   "ID": 18,
+   "TITLE": "鞠躬起来时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_019.mp3",
+   "TEXT": "18.json"
+  },
+  {
+   "ID": 19,
+   "TITLE": "叩头中念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_020.mp3",
+   "TEXT": "19.json"
+  },
+  {
+   "ID": 20,
+   "TITLE": "两叩头之间的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_021.mp3",
+   "TEXT": "20.json"
+  },
+  {
+   "ID": 21,
+   "TITLE": "诵经叩头中的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_022.mp3",
+   "TEXT": "21.json"
+  },
+  {
+   "ID": 22,
+   "TITLE": "中坐和末坐中念见证词（台善乎得）",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_023.mp3",
+   "TEXT": "22.json"
+  },
+  {
+   "ID": 23,
+   "TITLE": "拜中赞圣词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_024.mp3",
+   "TEXT": "23.json"
+  },
+  {
+   "ID": 24,
+   "TITLE": "末坐赞词后，出拜前的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_025.mp3",
+   "TEXT": "24.json"
+  },
+  {
+   "ID": 25,
+   "TITLE": "出拜后的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_026.mp3",
+   "TEXT": "25.json"
+  },
+  {
+   "ID": 26,
+   "TITLE": "求善拜中念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_027.mp3",
+   "TEXT": "26.json"
+  },
+  {
+   "ID": 29,
+   "TITLE": "夜间翻身时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_030.mp3",
+   "TEXT": "29.json"
+  },
+  {
+   "ID": 30,
+   "TITLE": "惊醒、失眠、孤寂时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_031.mp3",
+   "TEXT": "30.json"
+  },
+  {
+   "ID": 31,
+   "TITLE": "作恶梦时应念的赞词和应做的工作",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_032.mp3",
+   "TEXT": "31.json"
+  },
+  {
+   "ID": 32,
+   "TITLE": "奇数拜（威特勒）中的祷词（古奴特)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_033.mp3",
+   "TEXT": "32.json"
+  },
+  {
+   "ID": 33,
+   "TITLE": "奇数拜后的赞词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_034.mp3",
+   "TEXT": "33.json"
+  },
+  {
+   "ID": 34,
+   "TITLE": "忧愁苦闷时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_035.mp3",
+   "TEXT": "34.json"
+  },
+  {
+   "ID": 35,
+   "TITLE": "忧愁烦恼时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_036.mp3",
+   "TEXT": "35.json"
+  },
+  {
+   "ID": 36,
+   "TITLE": "遇敌交锋和害怕法官时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_037.mp3",
+   "TEXT": "36.json"
+  },
+  {
+   "ID": 37,
+   "TITLE": "害怕法官迫害时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_038.mp3",
+   "TEXT": "37.json"
+  },
+  {
+   "ID": 38,
+   "TITLE": "诅咒敌人时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_039.mp3",
+   "TEXT": "38.json"
+  },
+  {
+   "ID": 39,
+   "TITLE": "害怕敌人时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_040.mp3",
+   "TEXT": "39.json"
+  },
+  {
+   "ID": 40,
+   "TITLE": "心存疑虑时念的赞词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_041.mp3",
+   "TEXT": "40.json"
+  },
+  {
+   "ID": 41,
+   "TITLE": "难能还债时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_042.mp3",
+   "TEXT": "41.json"
+  },
+  {
+   "ID": 42,
+   "TITLE": "拜中诵经发觉恶魔的蛊惑时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_043.mp3",
+   "TEXT": "42.json"
+  },
+  {
+   "ID": 43,
+   "TITLE": "遇到困难时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_044.mp3",
+   "TEXT": "43.json"
+  },
+  {
+   "ID": 44,
+   "TITLE": "忏悔拜",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_045.mp3",
+   "TEXT": "44.json"
+  },
+  {
+   "ID": 45,
+   "TITLE": "驱逐恶魔的蛊惑时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_046.mp3",
+   "TEXT": "45.json"
+  },
+  {
+   "ID": 46,
+   "TITLE": "遇到可憎之事或磨难时的念词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_047.mp3",
+   "TEXT": "46.json"
+  },
+  {
+   "ID": 47,
+   "TITLE": "祝贺新生儿的父亲及他的回答",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_048.mp3",
+   "TEXT": "47.json"
+  },
+  {
+   "ID": 48,
+   "TITLE": "保护儿童的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_049.mp3",
+   "TEXT": "48.json"
+  },
+  {
+   "ID": 49,
+   "TITLE": "探望病人时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_050.mp3",
+   "TEXT": "49.json"
+  },
+  {
+   "ID": 50,
+   "TITLE": "探望病人的贵重",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_051.mp3",
+   "TEXT": "50.json"
+  },
+  {
+   "ID": 51,
+   "TITLE": "沮丧者应念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_052.mp3",
+   "TEXT": "51.json"
+  },
+  {
+   "ID": 52,
+   "TITLE": "向临终者提念“认主词”",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_053.mp3",
+   "TEXT": "52.json"
+  },
+  {
+   "ID": 53,
+   "TITLE": "遇丧时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_054.mp3",
+   "TEXT": "53.json"
+  },
+  {
+   "ID": 54,
+   "TITLE": "闭拢亡人眼睛时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_055.mp3",
+   "TEXT": "54.json"
+  },
+  {
+   "ID": 55,
+   "TITLE": "为亡人举行殡礼时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_056.mp3",
+   "TEXT": "55.json"
+  },
+  {
+   "ID": 56,
+   "TITLE": "为儿童举行殡礼时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_057.mp3",
+   "TEXT": "56.json"
+  },
+  {
+   "ID": 57,
+   "TITLE": "慰问亡人的家属时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_058.mp3",
+   "TEXT": "57.json"
+  },
+  {
+   "ID": 58,
+   "TITLE": "亡人入坟墓时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_059.mp3",
+   "TEXT": "58.json"
+  },
+  {
+   "ID": 59,
+   "TITLE": "埋葬后为亡人作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_060.mp3",
+   "TEXT": "59.json"
+  },
+  {
+   "ID": 60,
+   "TITLE": "探望坟墓的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_061.mp3",
+   "TEXT": "60.json"
+  },
+  {
+   "ID": 61,
+   "TITLE": "刮风时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_062.mp3",
+   "TEXT": "61.json"
+  },
+  {
+   "ID": 62,
+   "TITLE": "雷鸣电闪时念的赞词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_063.mp3",
+   "TEXT": "62.json"
+  },
+  {
+   "ID": 63,
+   "TITLE": "求雨时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_064.mp3",
+   "TEXT": "63.json"
+  },
+  {
+   "ID": 64,
+   "TITLE": "看见下雨时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_065.mp3",
+   "TEXT": "64.json"
+  },
+  {
+   "ID": 65,
+   "TITLE": "下雨后的赞词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_066.mp3",
+   "TEXT": "65.json"
+  },
+  {
+   "ID": 66,
+   "TITLE": "雨量过多时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_067.mp3",
+   "TEXT": "66.json"
+  },
+  {
+   "ID": 67,
+   "TITLE": "看见新月时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_068.mp3",
+   "TEXT": "67.json"
+  },
+  {
+   "ID": 68,
+   "TITLE": "开斋时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_069.mp3",
+   "TEXT": "68.json"
+  },
+  {
+   "ID": 69,
+   "TITLE": "吃饭前念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_070.mp3",
+   "TEXT": "69.json"
+  },
+  {
+   "ID": 70,
+   "TITLE": "吃毕时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_071.mp3",
+   "TEXT": "70.json"
+  },
+  {
+   "ID": 71,
+   "TITLE": "为待客者念的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_072.mp3",
+   "TEXT": "71.json"
+  },
+  {
+   "ID": 72,
+   "TITLE": "对于供给他喝了乳汁或正在供给他喝乳汁的人作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_073.mp3",
+   "TEXT": "72.json"
+  },
+  {
+   "ID": 73,
+   "TITLE": "当在别人跟前开斋时应作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_074.mp3",
+   "TEXT": "73.json"
+  },
+  {
+   "ID": 74,
+   "TITLE": "斋戒者没有开斋而端来食物时他应作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_075.mp3",
+   "TEXT": "74.json"
+  },
+  {
+   "ID": 75,
+   "TITLE": "斋戒者遇人谩骂或殴打时该说的言词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_076.mp3",
+   "TEXT": "75.json"
+  },
+  {
+   "ID": 76,
+   "TITLE": "看见庄稼、果品成熟时应作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_077.mp3",
+   "TEXT": "76.json"
+  },
+  {
+   "ID": 77,
+   "TITLE": "打喷嚏时念的赞词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_078.mp3",
+   "TEXT": "77.json"
+  },
+  {
+   "ID": 78,
+   "TITLE": "异教徒打喷嚏赞主时的回答",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_079.mp3",
+   "TEXT": "78.json"
+  },
+  {
+   "ID": 79,
+   "TITLE": "为新婚的人作祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_080.mp3",
+   "TEXT": "79.json"
+  },
+  {
+   "ID": 80,
+   "TITLE": "结婚者和购买牲畜时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_081.mp3",
+   "TEXT": "80.json"
+  },
+  {
+   "ID": 81,
+   "TITLE": "房事时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_082.mp3",
+   "TEXT": "81.json"
+  },
+  {
+   "ID": 82,
+   "TITLE": "息怒时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_083.mp3",
+   "TEXT": "82.json"
+  },
+  {
+   "ID": 83,
+   "TITLE": "见到遭难者时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_084.mp3",
+   "TEXT": "83.json"
+  },
+  {
+   "ID": 84,
+   "TITLE": "集会时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_085.mp3",
+   "TEXT": "84.json"
+  },
+  {
+   "ID": 85,
+   "TITLE": "座谈之罚赎",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_086.mp3",
+   "TEXT": "85.json"
+  },
+  {
+   "ID": 86,
+   "TITLE": "遇人为你向主求铙（愿主恕绕你!）时念的念词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_087.mp3",
+   "TEXT": "86.json"
+  },
+  {
+   "ID": 87,
+   "TITLE": "逢人行善时念的祝词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_088.mp3",
+   "TEXT": "87.json"
+  },
+  {
+   "ID": 88,
+   "TITLE": "求主保佑勿遭“骗子手”的伤害时的念词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_089.mp3",
+   "TEXT": "88.json"
+  },
+  {
+   "ID": 89,
+   "TITLE": "遇人说：“为主我喜爱你”时的回答",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_090.mp3",
+   "TEXT": "89.json"
+  },
+  {
+   "ID": 90,
+   "TITLE": "为给他钱财的人作祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_091.mp3",
+   "TEXT": "90.json"
+  },
+  {
+   "ID": 91,
+   "TITLE": "还债时债主为债户应作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_091.mp3",
+   "TEXT": "91.json"
+  },
+  {
+   "ID": 92,
+   "TITLE": "谨防举伴罪的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_092.mp3",
+   "TEXT": "92.json"
+  },
+  {
+   "ID": 93,
+   "TITLE": "为对你说：“祝福你”的人应作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_094.mp3",
+   "TEXT": "93.json"
+  },
+  {
+   "ID": 94,
+   "TITLE": "嫌疑凶兆时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_095.mp3",
+   "TEXT": "94.json"
+  },
+  {
+   "ID": 95,
+   "TITLE": "骑乘时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_096.mp3",
+   "TEXT": "95.json"
+  },
+  {
+   "ID": 96,
+   "TITLE": "旅行时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_097.mp3",
+   "TEXT": "96.json"
+  },
+  {
+   "ID": 97,
+   "TITLE": "旅客亲临某城或绕过村庄时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_098.mp3",
+   "TEXT": "97.json"
+  },
+  {
+   "ID": 98,
+   "TITLE": "去市场时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_099.mp3",
+   "TEXT": "98.json"
+  },
+  {
+   "ID": 99,
+   "TITLE": "被乘物（驼、骡、马）遭到不幸时应念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_100.mp3",
+   "TEXT": "99.json"
+  },
+  {
+   "ID": 100,
+   "TITLE": "旅客对其家属应作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_101.mp3",
+   "TEXT": "100.json"
+  },
+  {
+   "ID": 101,
+   "TITLE": "家属为旅行者应作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_102.mp3",
+   "TEXT": "101.json"
+  },
+  {
+   "ID": 102,
+   "TITLE": "旅客登高处、下平川时念的赞词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_103.mp3",
+   "TEXT": "102.json"
+  },
+  {
+   "ID": 103,
+   "TITLE": "旅客中邪时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_104.mp3",
+   "TEXT": "103.json"
+  },
+  {
+   "ID": 104,
+   "TITLE": "旅客下榻时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_105.mp3",
+   "TEXT": "104.json"
+  },
+  {
+   "ID": 105,
+   "TITLE": "旅客返回时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_106.mp3",
+   "TEXT": "105.json"
+  },
+  {
+   "ID": 106,
+   "TITLE": "得到喜讯与听到恶噩时应念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_107.mp3",
+   "TEXT": "106.json"
+  },
+  {
+   "ID": 107,
+   "TITLE": "赞圣之贵",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_108.mp3",
+   "TEXT": "107.json"
+  },
+  {
+   "ID": 108,
+   "TITLE": "宣扬“塞俩目”",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_109.mp3",
+   "TEXT": "108.json"
+  },
+  {
+   "ID": 109,
+   "TITLE": "对异教徒的答礼",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_110.mp3",
+   "TEXT": "109.json"
+  },
+  {
+   "ID": 110,
+   "TITLE": "鸡鸣、驴叫时念的赞词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_111.mp3",
+   "TEXT": "110.json"
+  },
+  {
+   "ID": 111,
+   "TITLE": "狗犬时念的赞词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_112.mp3",
+   "TEXT": "111.json"
+  },
+  {
+   "ID": 112,
+   "TITLE": "对于挨骂者应作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_113.mp3",
+   "TEXT": "112.json"
+  },
+  {
+   "ID": 113,
+   "TITLE": "穆斯林表扬穆斯林时应说些什么",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_114.mp3",
+   "TEXT": "113.json"
+  },
+  {
+   "ID": 114,
+   "TITLE": "穆斯林受到雪冤时应念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_115.mp3",
+   "TEXT": "114.json"
+  },
+  {
+   "ID": 115,
+   "TITLE": "受戒者怎样诵“响应词”",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_116.mp3",
+   "TEXT": "115.json"
+  },
+  {
+   "ID": 116,
+   "TITLE": "走到天房屋角时念“大赞词”",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_117.mp3",
+   "TEXT": "116.json"
+  },
+  {
+   "ID": 117,
+   "TITLE": "在也门方向的屋角和黑石中间作祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_118.mp3",
+   "TEXT": "117.json"
+  },
+  {
+   "ID": 118,
+   "TITLE": "登上赛法、麦尔窝山时作的祈祷",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_119.mp3",
+   "TEXT": "118.json"
+  },
+  {
+   "ID": 119,
+   "TITLE": "阿拉法特日念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_120.mp3",
+   "TEXT": "119.json"
+  },
+  {
+   "ID": 120,
+   "TITLE": "在禁标前的赞主词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_121.mp3",
+   "TEXT": "120.json"
+  },
+  {
+   "ID": 121,
+   "TITLE": "每投一颗石子念一遍“大赞词”",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_122.mp3",
+   "TEXT": "121.json"
+  },
+  {
+   "ID": 122,
+   "TITLE": "惊奇、高兴时念的“赞词”",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_123.mp3",
+   "TEXT": "122.json"
+  },
+  {
+   "ID": 123,
+   "TITLE": "遇到快乐之事应做的工作",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_124.mp3",
+   "TEXT": "123.json"
+  },
+  {
+   "ID": 124,
+   "TITLE": "患病时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_125.mp3",
+   "TEXT": "124.json"
+  },
+  {
+   "ID": 125,
+   "TITLE": "担心以嫉妒的眼神伤害别人时应念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_126.mp3",
+   "TEXT": "125.json"
+  },
+  {
+   "ID": 126,
+   "TITLE": "恐惧时应念的赞词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_127.mp3",
+   "TEXT": "126.json"
+  },
+  {
+   "ID": 127,
+   "TITLE": "宰牲时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_128.mp3",
+   "TEXT": "127.json"
+  },
+  {
+   "ID": 128,
+   "TITLE": "为打击恶魔的诡计时念的祷词",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_129.mp3",
+   "TEXT": "128.json"
+  },
+  {
+   "ID": 129,
+   "TITLE": "向主求饶、悔罪",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_130.mp3",
+   "TEXT": "129.json"
+  },
+  {
+   "ID": 130,
+   "TITLE": "赞主之贵",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_131.mp3",
+   "TEXT": "130.json"
+  },
+  {
+   "ID": 131,
+   "TITLE": "穆圣拜后怎样数念“台斯必合”（赞主词)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_132.mp3",
+   "TEXT": "131.json"
+  },
+  {
+   "ID": 132,
+   "TITLE": "综合性的礼节",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_133.mp3",
+   "TEXT": "132.json"
+  }
+ ]
+}

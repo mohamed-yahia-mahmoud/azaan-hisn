@@ -1,0 +1,12 @@
+{
+ "Súplica al salir de la Mezquita": [
+  {
+   "ID": 21,
+   "ARABIC_TEXT": "((يَبْدَأُ بِرِجْلِهِ الْيُسْرَى))  وَيَقُولُ: ((بِسْمِ اللَّهِ وَالصّلَاةُ وَالسَّلَامُ عَلَى رَسُولِ اللَّهِ، اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِك، اللَّهُمَّ اعْصِمْنِي مِنَ الشَّيْطَانِ الرَّجِيمِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Sale con el pie izquierdo y dice: “En el nombre de Allah y que la Paz y las Bendiciones de Allah sean con el Mensajero de Allah, ¡Oh mi Señor! Ciertamente te pido Tu favor, ¡Oh Señor! Protégeme de Sheitán el maldito.”",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/21.mp3"
+  }
+ ]
+}

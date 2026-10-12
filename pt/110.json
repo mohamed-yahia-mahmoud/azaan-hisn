@@ -1,0 +1,12 @@
+{
+ "Súplicas ao ouvir o cantar do galo ou zurrar de um asno.": [
+  {
+   "ID": 228,
+   "ARABIC_TEXT": "((إِذَا سَمِعْتُمْ صِيَاحَ الدِّيَكَةِ فَاسْأَلُوا اللَّهَ مِنْ فَضْلِهِ؛ فَإِنَّهَا رَأَتْ مَلَكاً وَإِذَا سَمِعْتُمْ نَهِيقَ الْحِمَارِ فَتَعَوَّذُوا بِاللَّهِ مِنَ الشَّيطَانِ؛ فَإِنَّهُ رَأَى شَيْطَاناً)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Se escutarem os cantares dos galos, peçam a Allah por Sua bondade, pois estes viram um anjo, e se escutarem o zurrar de um asno, busquem refúgio em Allah do Satanás, pois ele viu um satanás.\r\n\r\n(1) Al- Bukhari com Al-fath, 6/350, número 3303",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/228.mp3"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "Prece aquele que foi afligido por sussurros em sua fé.": [
+  {
+   "ID": 133,
+   "ARABIC_TEXT": "((يَسْتَعِيذُ بِاللَّهِ و يَنْتَهِي عَمَّا شك فِيهِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "(1)Deve pedir refúgio em ALLAH.\r\n(2)Deve parar de pensar neste sussurro.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/133.mp3"
+  },
+  {
+   "ID": 134,
+   "ARABIC_TEXT": "((يَقُولُ: ((آمَنْتُ بِاللَّهِ وَرُسُلِهِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Dizer: Creio em ALLAH e seu profeta.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/134.mp3"
+  },
+  {
+   "ID": 135,
+   "ARABIC_TEXT": "((يَقْرَأُ قَوْلَهُ تَعَالَى: ﴿هُوَ الْأوَّلُ وَالْآخِرُ وَالظّاهِرُ وَالْباطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ﴾)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Recita o seguinte versículo : Ele é o primeiro, último, visível e invisível, e ele tem poder sobre todas coisas.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/135.mp3"
+  }
+ ]
+}

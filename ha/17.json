@@ -1,0 +1,44 @@
+{
+ "Addu’ar ruku’i": [
+  {
+   "ID": 33,
+   "ARABIC_TEXT": "((سُبْحانَ رَبِّيَ الْعَظِيمِ)). ثلاث مرَّاتٍ.",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "( Tsarki ya tabbata ga ubangiji na mai girma ). sau uku.",
+   "REPEAT": 3,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/33.mp3"
+  },
+  {
+   "ID": 34,
+   "ARABIC_TEXT": "((سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "(Tsarki ya tabbata a gareka ya Allah ! ya ubangijin mu tare da godiya gareka, ya Allah ka gafarta mini).",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/34.mp3"
+  },
+  {
+   "ID": 35,
+   "ARABIC_TEXT": "((سُبُّوُحٌ، قُدُّوسٌ، رَبُّ المَلاَئِكَةِ وَالرُّوحِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "(Ubangi abin tsarkakewa, mai kubuta daga dukkan abinda bai kamace shi ba, ubangijin mala`iku da jibrilu).",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/35.mp3"
+  },
+  {
+   "ID": 36,
+   "ARABIC_TEXT": "((اللَّهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، خَشَعَ لَكَ سَمْعِي، وَبَصَرِي، وَمُخِّي، وَعَــــظْمِي، وَعَصَبِي، [وَمَا استَقَلَّتْ بِهِ قَدَمِي])).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "( Ya Allah a gareka nayi ruku`u, da kuma kai kadai nayi imani, kuma gareka na mika wuya, ji na ya kas-kanta gareka, da gani na, da kuma kwakwalwa ta, da kashi na, da jijiya ta, da abinda kafafuwa na ke dauke da su.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/36.mp3"
+  },
+  {
+   "ID": 37,
+   "ARABIC_TEXT": "((سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "(Tsarki ya tabbata ga Ma''abocin Mulki da halittu, da kuma girma da Daukaka)",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/37.mp3"
+  }
+ ]
+}

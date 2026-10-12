@@ -1,0 +1,28 @@
+{
+ "دعای کسی که در ایمان دچار شک و وسوسه شده است": [
+  {
+   "ID": 133,
+   "ARABIC_TEXT": "((يَسْتَعِيذُ بِاللَّهِ و يَنْتَهِي عَمَّا شك فِيهِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "«به الله پناه ببرد».",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/133.mp3"
+  },
+  {
+   "ID": 134,
+   "ARABIC_TEXT": "((يَقُولُ: ((آمَنْتُ بِاللَّهِ وَرُسُلِهِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "بگوید: «به الله و فرستادگانش ایمان آوردم».",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/134.mp3"
+  },
+  {
+   "ID": 135,
+   "ARABIC_TEXT": "((يَقْرَأُ قَوْلَهُ تَعَالَى: ﴿هُوَ الْأوَّلُ وَالْآخِرُ وَالظّاهِرُ وَالْباطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ﴾)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "«او اوّل است که آغازى ندارد، و آخر است که پایانى ندارد، و آشکار است که همه چیز بر او دلالت دارد، و پنهان است که حواس انسان بر او احاطه ندارد، او به همه چیز آگاه است».",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/135.mp3"
+  }
+ ]
+}

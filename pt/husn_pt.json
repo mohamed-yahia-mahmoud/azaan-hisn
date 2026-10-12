@@ -1,0 +1,796 @@
+{
+ "Português": [
+  {
+   "ID": 27,
+   "TITLE": "Súplica para fazer durante ao amanhecer e anoitecer.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_028.mp3",
+   "TEXT": "27.json"
+  },
+  {
+   "ID": 28,
+   "TITLE": "Súplica ao dormir.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_029.mp3",
+   "TEXT": "28.json"
+  },
+  {
+   "ID": 1,
+   "TITLE": "Súplica ao acordar",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_002.mp3",
+   "TEXT": "1.json"
+  },
+  {
+   "ID": 6,
+   "TITLE": "Súplica ao entrar na retrete.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_007.mp3",
+   "TEXT": "6.json"
+  },
+  {
+   "ID": 7,
+   "TITLE": "Súplica ao sair da retrete",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_008.mp3",
+   "TEXT": "7.json"
+  },
+  {
+   "ID": 8,
+   "TITLE": "Recordação antes de ablução.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_009.mp3",
+   "TEXT": "8.json"
+  },
+  {
+   "ID": 9,
+   "TITLE": "Súplica depois doe términar com a ablução.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_010.mp3",
+   "TEXT": "9.json"
+  },
+  {
+   "ID": 10,
+   "TITLE": "Recordação ao sair de casa.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_011.mp3",
+   "TEXT": "10.json"
+  },
+  {
+   "ID": 11,
+   "TITLE": "Recordação ao entrar em casa.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_012.mp3",
+   "TEXT": "11.json"
+  },
+  {
+   "ID": 12,
+   "TITLE": "Súplica ao ir ao Massjid.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_013.mp3",
+   "TEXT": "12.json"
+  },
+  {
+   "ID": 13,
+   "TITLE": "Prece ao entrar no Massjid.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_014.mp3",
+   "TEXT": "13.json"
+  },
+  {
+   "ID": 14,
+   "TITLE": "Súplica ao sair do Massjid.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_015.mp3",
+   "TEXT": "14.json"
+  },
+  {
+   "ID": 15,
+   "TITLE": "Súplica de Chamamento para orações.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_016.mp3",
+   "TEXT": "15.json"
+  },
+  {
+   "ID": 2,
+   "TITLE": "Súplica ao vestir a roupa.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_003.mp3",
+   "TEXT": "2.json"
+  },
+  {
+   "ID": 3,
+   "TITLE": "Súplica ao usar roupa nova",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_004.mp3",
+   "TEXT": "3.json"
+  },
+  {
+   "ID": 4,
+   "TITLE": "Súplica a Fazer para aquele usou roupa nova.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_005.mp3",
+   "TEXT": "4.json"
+  },
+  {
+   "ID": 5,
+   "TITLE": "O que dizer ao vestir-se.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_006.mp3",
+   "TEXT": "5.json"
+  },
+  {
+   "ID": 16,
+   "TITLE": "Súplica para recitar logo após que iniciar a oração.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_017.mp3",
+   "TEXT": "16.json"
+  },
+  {
+   "ID": 17,
+   "TITLE": "Súplica durante o inclino (Rukú) na oração.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_018.mp3",
+   "TEXT": "17.json"
+  },
+  {
+   "ID": 18,
+   "TITLE": "Súplica ao levantar-se do inclino.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_019.mp3",
+   "TEXT": "18.json"
+  },
+  {
+   "ID": 19,
+   "TITLE": "Súplica durante a prostração (Sujúd).",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_020.mp3",
+   "TEXT": "19.json"
+  },
+  {
+   "ID": 20,
+   "TITLE": "Súplica durante a sentada entre as duas prostrações.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_021.mp3",
+   "TEXT": "20.json"
+  },
+  {
+   "ID": 21,
+   "TITLE": "Súplica durante a prostração.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_022.mp3",
+   "TEXT": "21.json"
+  },
+  {
+   "ID": 22,
+   "TITLE": "Súplica após terminar com o Attashahhud.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_023.mp3",
+   "TEXT": "22.json"
+  },
+  {
+   "ID": 23,
+   "TITLE": "Saudações para o mensageiro de Deus (que a paz esteja com Ele),após o Tashahhud.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_024.mp3",
+   "TEXT": "23.json"
+  },
+  {
+   "ID": 24,
+   "TITLE": "Súplica após o último Tashahhud e antes do Salam",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_025.mp3",
+   "TEXT": "24.json"
+  },
+  {
+   "ID": 25,
+   "TITLE": "Súplica após o término da oração.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_026.mp3",
+   "TEXT": "25.json"
+  },
+  {
+   "ID": 26,
+   "TITLE": "Súplica de oração de pedido de boa decisão.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_027.mp3",
+   "TEXT": "26.json"
+  },
+  {
+   "ID": 29,
+   "TITLE": "Súplica quando movimentar durante a noite",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_030.mp3",
+   "TEXT": "29.json"
+  },
+  {
+   "ID": 30,
+   "TITLE": "Súplica de insónia e o medo durante o sono, e de quem é afligido por melancolia e outras coisas.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_031.mp3",
+   "TEXT": "30.json"
+  },
+  {
+   "ID": 31,
+   "TITLE": "O que deve fazer aquele que vê um bom sonho ou mau.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_032.mp3",
+   "TEXT": "31.json"
+  },
+  {
+   "ID": 32,
+   "TITLE": "Súplica de Qunuut Al-witr",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_033.mp3",
+   "TEXT": "32.json"
+  },
+  {
+   "ID": 33,
+   "TITLE": "Súplica após a oração de Witr.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_034.mp3",
+   "TEXT": "33.json"
+  },
+  {
+   "ID": 34,
+   "TITLE": "Súplica para preocupação e tristeza.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_035.mp3",
+   "TEXT": "34.json"
+  },
+  {
+   "ID": 35,
+   "TITLE": "Súplica para a angústia.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_036.mp3",
+   "TEXT": "35.json"
+  },
+  {
+   "ID": 36,
+   "TITLE": "Súplica ao encontrar um inimigo ou autoridade.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_037.mp3",
+   "TEXT": "36.json"
+  },
+  {
+   "ID": 37,
+   "TITLE": "Súplica para aquele que teme a injustiça da Autoridade.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_038.mp3",
+   "TEXT": "37.json"
+  },
+  {
+   "ID": 38,
+   "TITLE": "Súplica contra o inimigo.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_039.mp3",
+   "TEXT": "38.json"
+  },
+  {
+   "ID": 39,
+   "TITLE": "O que deve dizer aquele que teme a malícia de um povo.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_040.mp3",
+   "TEXT": "39.json"
+  },
+  {
+   "ID": 40,
+   "TITLE": "Prece aquele que foi afligido por sussurros em sua fé.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_041.mp3",
+   "TEXT": "40.json"
+  },
+  {
+   "ID": 41,
+   "TITLE": "Súplica para liquidação das dividas.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_042.mp3",
+   "TEXT": "41.json"
+  },
+  {
+   "ID": 42,
+   "TITLE": "Prece contra sussurros durante a oração e recitação do Alcorão.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_043.mp3",
+   "TEXT": "42.json"
+  },
+  {
+   "ID": 43,
+   "TITLE": "Prece para aquele que enfrenta algo difícil.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_044.mp3",
+   "TEXT": "43.json"
+  },
+  {
+   "ID": 44,
+   "TITLE": "O que deve dizer e fazer aquele que cometeu um pecado.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_045.mp3",
+   "TEXT": "44.json"
+  },
+  {
+   "ID": 45,
+   "TITLE": "Súplica para afugentar o Satanás e seus sussurros.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_046.mp3",
+   "TEXT": "45.json"
+  },
+  {
+   "ID": 46,
+   "TITLE": "Prece quando acontecer algo não desejado ou quando lhe for superado por algo.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_047.mp3",
+   "TEXT": "46.json"
+  },
+  {
+   "ID": 47,
+   "TITLE": "Parabéns para o recém nascido e a sua resposta.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_048.mp3",
+   "TEXT": "47.json"
+  },
+  {
+   "ID": 48,
+   "TITLE": "Súplica para protecção das crianças.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_049.mp3",
+   "TEXT": "48.json"
+  },
+  {
+   "ID": 49,
+   "TITLE": "Súplica ao visitar um doente.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_050.mp3",
+   "TEXT": "49.json"
+  },
+  {
+   "ID": 50,
+   "TITLE": "As virtudes de visitar um doente.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_051.mp3",
+   "TEXT": "50.json"
+  },
+  {
+   "ID": 51,
+   "TITLE": "Súplica para aquele doente que se desesperou da sua vida.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_052.mp3",
+   "TEXT": "51.json"
+  },
+  {
+   "ID": 52,
+   "TITLE": "Fazer recitar o testemunho a aquele que se encontra próximo à morte",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_053.mp3",
+   "TEXT": "52.json"
+  },
+  {
+   "ID": 53,
+   "TITLE": "Prece para aquele que for afligido por uma calamidade.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_054.mp3",
+   "TEXT": "53.json"
+  },
+  {
+   "ID": 54,
+   "TITLE": "Prece ao fechar os olhos do morto.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_055.mp3",
+   "TEXT": "54.json"
+  },
+  {
+   "ID": 55,
+   "TITLE": "Súplica para o morto durante a oração de funeral.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_056.mp3",
+   "TEXT": "55.json"
+  },
+  {
+   "ID": 56,
+   "TITLE": "Prece para Deus fazer da criança que ainda não atingiu a puberdade uma intecedora a favor dos pais.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_057.mp3",
+   "TEXT": "56.json"
+  },
+  {
+   "ID": 57,
+   "TITLE": "Súplica de condolências.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_058.mp3",
+   "TEXT": "57.json"
+  },
+  {
+   "ID": 58,
+   "TITLE": "Súplica ao introduzir o morto na sepultura.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_059.mp3",
+   "TEXT": "58.json"
+  },
+  {
+   "ID": 59,
+   "TITLE": "Súplica após enterrar o morto.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_060.mp3",
+   "TEXT": "59.json"
+  },
+  {
+   "ID": 60,
+   "TITLE": "Súplica ao visitar o cemitério.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_061.mp3",
+   "TEXT": "60.json"
+  },
+  {
+   "ID": 61,
+   "TITLE": "Súplica durante fortes ventos.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_062.mp3",
+   "TEXT": "61.json"
+  },
+  {
+   "ID": 62,
+   "TITLE": "Súplica durante um trovão.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_063.mp3",
+   "TEXT": "62.json"
+  },
+  {
+   "ID": 63,
+   "TITLE": "Súplica ao pedir a chuva.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_064.mp3",
+   "TEXT": "63.json"
+  },
+  {
+   "ID": 64,
+   "TITLE": "Súplica ao ver a chuva.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_065.mp3",
+   "TEXT": "64.json"
+  },
+  {
+   "ID": 65,
+   "TITLE": "Súplica após a queda da chuva.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_066.mp3",
+   "TEXT": "65.json"
+  },
+  {
+   "ID": 66,
+   "TITLE": "Dentre alguns pedidos para ter o céu limpo.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_067.mp3",
+   "TEXT": "66.json"
+  },
+  {
+   "ID": 67,
+   "TITLE": "Súplica ao olhar para a Lua",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_068.mp3",
+   "TEXT": "67.json"
+  },
+  {
+   "ID": 68,
+   "TITLE": "Súplica ao quebrar o jejum.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_069.mp3",
+   "TEXT": "68.json"
+  },
+  {
+   "ID": 69,
+   "TITLE": "Súplica antes de comer.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_070.mp3",
+   "TEXT": "69.json"
+  },
+  {
+   "ID": 70,
+   "TITLE": "Súplica depois de comer.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_071.mp3",
+   "TEXT": "70.json"
+  },
+  {
+   "ID": 71,
+   "TITLE": "Súplica do convidado para o anfitrião.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_072.mp3",
+   "TEXT": "71.json"
+  },
+  {
+   "ID": 72,
+   "TITLE": "Súplica para aquele que pede por comida e bebida.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_073.mp3",
+   "TEXT": "72.json"
+  },
+  {
+   "ID": 73,
+   "TITLE": "Súplica ao quebrar o jejum em casa de alguém.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_074.mp3",
+   "TEXT": "73.json"
+  },
+  {
+   "ID": 74,
+   "TITLE": "Súplica do jejuador quando é lhe servida a comida, e este não quebra seu jejum",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_075.mp3",
+   "TEXT": "74.json"
+  },
+  {
+   "ID": 75,
+   "TITLE": "O que o jejuador deve dizer ao lhe ser insultado.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_076.mp3",
+   "TEXT": "75.json"
+  },
+  {
+   "ID": 76,
+   "TITLE": "Súplica ao ver um fruto não maduro.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_077.mp3",
+   "TEXT": "76.json"
+  },
+  {
+   "ID": 77,
+   "TITLE": "Súplica ao espirrar.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_078.mp3",
+   "TEXT": "77.json"
+  },
+  {
+   "ID": 78,
+   "TITLE": "O que se diz quando o descrente espirra e glorifica á ALLAH.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_079.mp3",
+   "TEXT": "78.json"
+  },
+  {
+   "ID": 79,
+   "TITLE": "Súplica para o recém casado.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_080.mp3",
+   "TEXT": "79.json"
+  },
+  {
+   "ID": 80,
+   "TITLE": "Súplica do noivo para si mesmo.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_081.mp3",
+   "TEXT": "80.json"
+  },
+  {
+   "ID": 81,
+   "TITLE": "Súplica antes da relação sexual.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_082.mp3",
+   "TEXT": "81.json"
+  },
+  {
+   "ID": 82,
+   "TITLE": "Súplica ao estar zangado.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_083.mp3",
+   "TEXT": "82.json"
+  },
+  {
+   "ID": 83,
+   "TITLE": "Prece ao ver alguém afligido.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_084.mp3",
+   "TEXT": "83.json"
+  },
+  {
+   "ID": 84,
+   "TITLE": "O que dizer quando estiver em uma reunião.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_085.mp3",
+   "TEXT": "84.json"
+  },
+  {
+   "ID": 85,
+   "TITLE": "Súplica de expiação de uma reunião.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_086.mp3",
+   "TEXT": "85.json"
+  },
+  {
+   "ID": 86,
+   "TITLE": "Súplica para aquele que pedir perdão para si.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_087.mp3",
+   "TEXT": "86.json"
+  },
+  {
+   "ID": 87,
+   "TITLE": "Súplica para aquele que fizer um bem para si.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_088.mp3",
+   "TEXT": "87.json"
+  },
+  {
+   "ID": 88,
+   "TITLE": "Súplica através da qual Deus protege contra o falso Messias.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_089.mp3",
+   "TEXT": "88.json"
+  },
+  {
+   "ID": 89,
+   "TITLE": "Súplica para aquele que disser: eu te amo por ALLAH.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_090.mp3",
+   "TEXT": "89.json"
+  },
+  {
+   "ID": 90,
+   "TITLE": "Súplica para aquele que te oferece a sua riqueza.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_091.mp3",
+   "TEXT": "90.json"
+  },
+  {
+   "ID": 91,
+   "TITLE": "Súplica a fazer para o credor na hora do pagamento.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_091.mp3",
+   "TEXT": "91.json"
+  },
+  {
+   "ID": 92,
+   "TITLE": "Súplica por temor de cometer a Idolatria.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_092.mp3",
+   "TEXT": "92.json"
+  },
+  {
+   "ID": 93,
+   "TITLE": "Súplica para aquele que pede que Deus te abençoa.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_094.mp3",
+   "TEXT": "93.json"
+  },
+  {
+   "ID": 94,
+   "TITLE": "Súplica pela abominação ao augúrio.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_095.mp3",
+   "TEXT": "94.json"
+  },
+  {
+   "ID": 95,
+   "TITLE": "Súplica ao montar.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_096.mp3",
+   "TEXT": "95.json"
+  },
+  {
+   "ID": 96,
+   "TITLE": "Súplica de viagem.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_097.mp3",
+   "TEXT": "96.json"
+  },
+  {
+   "ID": 97,
+   "TITLE": "Súplca ao entrar em uma localidade ou cidade.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_098.mp3",
+   "TEXT": "97.json"
+  },
+  {
+   "ID": 98,
+   "TITLE": "Súplica ao entrar no mercado.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_099.mp3",
+   "TEXT": "98.json"
+  },
+  {
+   "ID": 99,
+   "TITLE": "Súplica ao empacar a montada.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_100.mp3",
+   "TEXT": "99.json"
+  },
+  {
+   "ID": 100,
+   "TITLE": "Súplica do viajante para o residente.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_101.mp3",
+   "TEXT": "100.json"
+  },
+  {
+   "ID": 101,
+   "TITLE": "Súplica do residente para o viajante.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_102.mp3",
+   "TEXT": "101.json"
+  },
+  {
+   "ID": 102,
+   "TITLE": "Engradicimento e louvores á Deus durante á viagem.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_103.mp3",
+   "TEXT": "102.json"
+  },
+  {
+   "ID": 103,
+   "TITLE": "Súplica do viajante antes do alvorecer.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_104.mp3",
+   "TEXT": "103.json"
+  },
+  {
+   "ID": 104,
+   "TITLE": "Súplica ao alojar durante a viajem ou em algum lugar.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_105.mp3",
+   "TEXT": "104.json"
+  },
+  {
+   "ID": 105,
+   "TITLE": "Súplica ao regressar da viajem.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_106.mp3",
+   "TEXT": "105.json"
+  },
+  {
+   "ID": 106,
+   "TITLE": "O que deve dizer aquele que lhe chega algo que o agrada ou desagrada.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_107.mp3",
+   "TEXT": "106.json"
+  },
+  {
+   "ID": 107,
+   "TITLE": "As virtudes de enviar saudações ao Profeta Muhammad (que a paz esteja sobre Ele)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_108.mp3",
+   "TEXT": "107.json"
+  },
+  {
+   "ID": 108,
+   "TITLE": "Espalhar a saudação.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_109.mp3",
+   "TEXT": "108.json"
+  },
+  {
+   "ID": 109,
+   "TITLE": "Como retorquir a saudação de um descrente.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_110.mp3",
+   "TEXT": "109.json"
+  },
+  {
+   "ID": 110,
+   "TITLE": "Súplicas ao ouvir o cantar do galo ou zurrar de um asno.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_111.mp3",
+   "TEXT": "110.json"
+  },
+  {
+   "ID": 111,
+   "TITLE": "Súplica ao ouvir o latido de cachorros durante a noite.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_112.mp3",
+   "TEXT": "111.json"
+  },
+  {
+   "ID": 112,
+   "TITLE": "Prece quando houver insultado alguém.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_113.mp3",
+   "TEXT": "112.json"
+  },
+  {
+   "ID": 113,
+   "TITLE": "O que o Muçulmano deve dizer ao elogiar outro Muçulmano.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_114.mp3",
+   "TEXT": "113.json"
+  },
+  {
+   "ID": 114,
+   "TITLE": "O que o Muçulmano deve dizer quando for elogiado.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_115.mp3",
+   "TEXT": "114.json"
+  },
+  {
+   "ID": 115,
+   "TITLE": "Como deve fazer o Talbiyah no Hajj e Umrah.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_116.mp3",
+   "TEXT": "115.json"
+  },
+  {
+   "ID": 116,
+   "TITLE": "O engrandicimento ao aproximar da pedra negra.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_117.mp3",
+   "TEXT": "116.json"
+  },
+  {
+   "ID": 117,
+   "TITLE": "A Súplica entre o vértice do Iémen e a pedra negra.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_118.mp3",
+   "TEXT": "117.json"
+  },
+  {
+   "ID": 118,
+   "TITLE": "Prece ao estar nos montes As- Safa e Al- Maruah.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_119.mp3",
+   "TEXT": "118.json"
+  },
+  {
+   "ID": 119,
+   "TITLE": "Prece do dia de Ãrafah.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_120.mp3",
+   "TEXT": "119.json"
+  },
+  {
+   "ID": 120,
+   "TITLE": "Prece no local sagrado.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_121.mp3",
+   "TEXT": "120.json"
+  },
+  {
+   "ID": 121,
+   "TITLE": "O engrandicimento ao atirar cada pedra no Jamarat",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_122.mp3",
+   "TEXT": "121.json"
+  },
+  {
+   "ID": 122,
+   "TITLE": "Prece ao se admirar ou se contentar com algo.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_123.mp3",
+   "TEXT": "122.json"
+  },
+  {
+   "ID": 123,
+   "TITLE": "O que dizer ao receber noticias que lhe agrada.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_124.mp3",
+   "TEXT": "123.json"
+  },
+  {
+   "ID": 124,
+   "TITLE": "O que dizer e fazer ao sentir uma dor em seu corpo.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_125.mp3",
+   "TEXT": "124.json"
+  },
+  {
+   "ID": 125,
+   "TITLE": "Súplica ao temer que alguma coisa seja afligida por seu olhar.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_126.mp3",
+   "TEXT": "125.json"
+  },
+  {
+   "ID": 126,
+   "TITLE": "O que dizer quando se assustar.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_127.mp3",
+   "TEXT": "126.json"
+  },
+  {
+   "ID": 127,
+   "TITLE": "O que dizer ao degolar ou sacrificar um animal.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_128.mp3",
+   "TEXT": "127.json"
+  },
+  {
+   "ID": 128,
+   "TITLE": "O que dizer para se livrar da obstinação dos demónios.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_129.mp3",
+   "TEXT": "128.json"
+  },
+  {
+   "ID": 129,
+   "TITLE": "O perdão e arrependimento.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_130.mp3",
+   "TEXT": "129.json"
+  },
+  {
+   "ID": 130,
+   "TITLE": "A virtude da glorificação, do louvor, da aclamação da unicidade de ALLAH e de seu engrandecimento.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_131.mp3",
+   "TEXT": "130.json"
+  },
+  {
+   "ID": 131,
+   "TITLE": "Como o Profeta (que a paz esteja sobre Ele) glorificava a ALLAH.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_132.mp3",
+   "TEXT": "131.json"
+  },
+  {
+   "ID": 132,
+   "TITLE": "Alguns bens e éticas gerais.",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_133.mp3",
+   "TEXT": "132.json"
+  }
+ ]
+}

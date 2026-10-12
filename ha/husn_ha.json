@@ -1,0 +1,796 @@
+{
+ "Hausa": [
+  {
+   "ID": 27,
+   "TITLE": "Zikiran safe da yamma",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_028.mp3",
+   "TEXT": "27.json"
+  },
+  {
+   "ID": 28,
+   "TITLE": "Zikiran Bacci",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_029.mp3",
+   "TEXT": "28.json"
+  },
+  {
+   "ID": 1,
+   "TITLE": "Zikirin tashi daga bacci",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_002.mp3",
+   "TEXT": "1.json"
+  },
+  {
+   "ID": 6,
+   "TITLE": "Addu’ar shiga bandaki",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_007.mp3",
+   "TEXT": "6.json"
+  },
+  {
+   "ID": 7,
+   "TITLE": "Addu’ar fitowa daga bandaki",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_008.mp3",
+   "TEXT": "7.json"
+  },
+  {
+   "ID": 8,
+   "TITLE": "Zikiri kafi alwala",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_009.mp3",
+   "TEXT": "8.json"
+  },
+  {
+   "ID": 9,
+   "TITLE": "Zikiri bayan kammala alwala",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_010.mp3",
+   "TEXT": "9.json"
+  },
+  {
+   "ID": 10,
+   "TITLE": "Zikiri yayin fita daga gida",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_011.mp3",
+   "TEXT": "10.json"
+  },
+  {
+   "ID": 11,
+   "TITLE": "Zikiri yayin shiga gida",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_012.mp3",
+   "TEXT": "11.json"
+  },
+  {
+   "ID": 12,
+   "TITLE": "Addu’ar tafiya masallaci",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_013.mp3",
+   "TEXT": "12.json"
+  },
+  {
+   "ID": 13,
+   "TITLE": "Addu’ar shiga masallaci",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_014.mp3",
+   "TEXT": "13.json"
+  },
+  {
+   "ID": 14,
+   "TITLE": "Addu’ar fita daga masallaci",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_015.mp3",
+   "TEXT": "14.json"
+  },
+  {
+   "ID": 15,
+   "TITLE": "Zikiran kiran sallah",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_016.mp3",
+   "TEXT": "15.json"
+  },
+  {
+   "ID": 2,
+   "TITLE": "Addu’ar sanya tufafi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_003.mp3",
+   "TEXT": "2.json"
+  },
+  {
+   "ID": 3,
+   "TITLE": "Addu’ar sanya sabon tufafi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_004.mp3",
+   "TEXT": "3.json"
+  },
+  {
+   "ID": 4,
+   "TITLE": "Addu’a ga wanda ya sanya sabon tufafi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_005.mp3",
+   "TEXT": "4.json"
+  },
+  {
+   "ID": 5,
+   "TITLE": "Abinda zai fada idan ya sanya sabon tufafi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_006.mp3",
+   "TEXT": "5.json"
+  },
+  {
+   "ID": 16,
+   "TITLE": "Addu’ar fara sallah",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_017.mp3",
+   "TEXT": "16.json"
+  },
+  {
+   "ID": 17,
+   "TITLE": "Addu’ar ruku’i",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_018.mp3",
+   "TEXT": "17.json"
+  },
+  {
+   "ID": 18,
+   "TITLE": "Addu’ar tasowa daga ruku’i",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_019.mp3",
+   "TEXT": "18.json"
+  },
+  {
+   "ID": 19,
+   "TITLE": "Addu’ar Sujjada",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_020.mp3",
+   "TEXT": "19.json"
+  },
+  {
+   "ID": 20,
+   "TITLE": "Addu’a tsakanin sujjadu biyu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_021.mp3",
+   "TEXT": "20.json"
+  },
+  {
+   "ID": 21,
+   "TITLE": "Addu’ar sujjadar karatun Alkur’ani",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_022.mp3",
+   "TEXT": "21.json"
+  },
+  {
+   "ID": 22,
+   "TITLE": "Tahiya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_023.mp3",
+   "TEXT": "22.json"
+  },
+  {
+   "ID": 23,
+   "TITLE": "Salati ga Manzon Allah ( S.A.W) bayan tahiya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_024.mp3",
+   "TEXT": "23.json"
+  },
+  {
+   "ID": 24,
+   "TITLE": "Addu’a bayan tahiyar karshe",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_025.mp3",
+   "TEXT": "24.json"
+  },
+  {
+   "ID": 25,
+   "TITLE": "Zikirai bayan sallamewa daga sallah",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_026.mp3",
+   "TEXT": "25.json"
+  },
+  {
+   "ID": 26,
+   "TITLE": "Addu’ar Sallar Istahara",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_027.mp3",
+   "TEXT": "26.json"
+  },
+  {
+   "ID": 29,
+   "TITLE": "Addu’a idan ya juya cikin dare",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_030.mp3",
+   "TEXT": "29.json"
+  },
+  {
+   "ID": 30,
+   "TITLE": "Addu’ar firgici cikin dare",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_031.mp3",
+   "TEXT": "30.json"
+  },
+  {
+   "ID": 31,
+   "TITLE": "Abinda zai yi wanda ya yi mafarki",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_032.mp3",
+   "TEXT": "31.json"
+  },
+  {
+   "ID": 32,
+   "TITLE": "Addu’ar Alkanut",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_033.mp3",
+   "TEXT": "32.json"
+  },
+  {
+   "ID": 33,
+   "TITLE": "Zikiri bayan sallamewa daga wuturi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_034.mp3",
+   "TEXT": "33.json"
+  },
+  {
+   "ID": 34,
+   "TITLE": "Addu’ar bain-ciki da damuwa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_035.mp3",
+   "TEXT": "34.json"
+  },
+  {
+   "ID": 35,
+   "TITLE": "Addu’ar kunci",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_036.mp3",
+   "TEXT": "35.json"
+  },
+  {
+   "ID": 36,
+   "TITLE": "Addu’ar haduwa da makiyi da mai mulki",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_037.mp3",
+   "TEXT": "36.json"
+  },
+  {
+   "ID": 37,
+   "TITLE": "Addu’ar wanda ya ji tsoron mai mulki",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_038.mp3",
+   "TEXT": "37.json"
+  },
+  {
+   "ID": 38,
+   "TITLE": "Addu’a akan makiyi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_039.mp3",
+   "TEXT": "38.json"
+  },
+  {
+   "ID": 39,
+   "TITLE": "Abinda zai fada wanda ya ji tsoron wasu mutane",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_040.mp3",
+   "TEXT": "39.json"
+  },
+  {
+   "ID": 40,
+   "TITLE": "Addu’ar wanda aka jarrabeshi da shakka a Imani",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_041.mp3",
+   "TEXT": "40.json"
+  },
+  {
+   "ID": 41,
+   "TITLE": "Addu’ar biyan bashi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_042.mp3",
+   "TEXT": "41.json"
+  },
+  {
+   "ID": 42,
+   "TITLE": "Addu’ar mai wasuwasi a sallah da karatu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_043.mp3",
+   "TEXT": "42.json"
+  },
+  {
+   "ID": 43,
+   "TITLE": "Addu’ar wanda al’amari ya yi mishi tsauri",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_044.mp3",
+   "TEXT": "43.json"
+  },
+  {
+   "ID": 44,
+   "TITLE": "Abinda zai fada ya kuma aikata wanda ya aikata zunbi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_045.mp3",
+   "TEXT": "44.json"
+  },
+  {
+   "ID": 45,
+   "TITLE": "Addu’ar koran shaidani da kuma wasuwasinsa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_046.mp3",
+   "TEXT": "45.json"
+  },
+  {
+   "ID": 46,
+   "TITLE": "Addu’a alokacin da wani abu ya faru wanda ba ya so ko kuma aka rinjayeshi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_047.mp3",
+   "TEXT": "46.json"
+  },
+  {
+   "ID": 47,
+   "TITLE": "Barka ga wanda aka yi wa haihuwa da amsarsa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_048.mp3",
+   "TEXT": "47.json"
+  },
+  {
+   "ID": 48,
+   "TITLE": "Abinda ake karantawa yara domin neman tsari",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_049.mp3",
+   "TEXT": "48.json"
+  },
+  {
+   "ID": 49,
+   "TITLE": "Addu’ar da ake yi wa maralafiya idan an je gaidashi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_050.mp3",
+   "TEXT": "49.json"
+  },
+  {
+   "ID": 50,
+   "TITLE": "Falalar gaida maralafiya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_051.mp3",
+   "TEXT": "50.json"
+  },
+  {
+   "ID": 51,
+   "TITLE": "Addu’ar maralafi da ya fidda rai da tashinsa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_052.mp3",
+   "TEXT": "51.json"
+  },
+  {
+   "ID": 52,
+   "TITLE": "Lakkanawa maralafiya “Kalmar Shahada”",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_053.mp3",
+   "TEXT": "52.json"
+  },
+  {
+   "ID": 53,
+   "TITLE": "Addu’ar wanda aka jarraba da wata masifa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_054.mp3",
+   "TEXT": "53.json"
+  },
+  {
+   "ID": 54,
+   "TITLE": "Addu’a yayin rufewa mamaci ido",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_055.mp3",
+   "TEXT": "54.json"
+  },
+  {
+   "ID": 55,
+   "TITLE": "Karatun sallar jana’iza",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_056.mp3",
+   "TEXT": "55.json"
+  },
+  {
+   "ID": 56,
+   "TITLE": "Karatun sallar jana’iza ta karamin yaro",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_057.mp3",
+   "TEXT": "56.json"
+  },
+  {
+   "ID": 57,
+   "TITLE": "Addu’ar ta’aziyyah",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_058.mp3",
+   "TEXT": "57.json"
+  },
+  {
+   "ID": 58,
+   "TITLE": "Addu’a yayin sanya mamaci a kabari",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_059.mp3",
+   "TEXT": "58.json"
+  },
+  {
+   "ID": 59,
+   "TITLE": "Addu’a bayan binne mamaci",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_060.mp3",
+   "TEXT": "59.json"
+  },
+  {
+   "ID": 60,
+   "TITLE": "Addu’a yayin ziyartar makabarta",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_061.mp3",
+   "TEXT": "60.json"
+  },
+  {
+   "ID": 61,
+   "TITLE": "Addu’a yayin tasowar iska",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_062.mp3",
+   "TEXT": "61.json"
+  },
+  {
+   "ID": 62,
+   "TITLE": "Addu’a yayin tsawa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_063.mp3",
+   "TEXT": "62.json"
+  },
+  {
+   "ID": 63,
+   "TITLE": "Daga cikin addu’o’in sallar rokon ruwa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_064.mp3",
+   "TEXT": "63.json"
+  },
+  {
+   "ID": 64,
+   "TITLE": "Addu’a idan aka ga ruwan sama",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_065.mp3",
+   "TEXT": "64.json"
+  },
+  {
+   "ID": 65,
+   "TITLE": "Zikiri bayan saukar ruwan sama",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_066.mp3",
+   "TEXT": "65.json"
+  },
+  {
+   "ID": 66,
+   "TITLE": "Daga cikin addu’o’in mark-marka",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_067.mp3",
+   "TEXT": "66.json"
+  },
+  {
+   "ID": 67,
+   "TITLE": "Addu’ar ganin jinjirin wata",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_068.mp3",
+   "TEXT": "67.json"
+  },
+  {
+   "ID": 68,
+   "TITLE": "Addu’a yayin bude baki",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_069.mp3",
+   "TEXT": "68.json"
+  },
+  {
+   "ID": 69,
+   "TITLE": "Addu’a kafin a fara cin abin ci",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_070.mp3",
+   "TEXT": "69.json"
+  },
+  {
+   "ID": 70,
+   "TITLE": "Addu’a yayin kamala cin abin ci",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_071.mp3",
+   "TEXT": "70.json"
+  },
+  {
+   "ID": 71,
+   "TITLE": "Addu’ar da bako zai yi wa mai abinci",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_072.mp3",
+   "TEXT": "71.json"
+  },
+  {
+   "ID": 72,
+   "TITLE": "Addu’a ga wanda ya shayar ko yake son ya shayar",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_073.mp3",
+   "TEXT": "72.json"
+  },
+  {
+   "ID": 73,
+   "TITLE": "Addu’ar da zai yi idan ya yi bude baki a gidan wani",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_074.mp3",
+   "TEXT": "73.json"
+  },
+  {
+   "ID": 74,
+   "TITLE": "Addu’ar da mai azumi zai yi idan aka kawo abin ci kuma shi bai sha ruwa ba",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_075.mp3",
+   "TEXT": "74.json"
+  },
+  {
+   "ID": 75,
+   "TITLE": "Abinda mai azumi zai fada idan wani ya zage shi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_076.mp3",
+   "TEXT": "75.json"
+  },
+  {
+   "ID": 76,
+   "TITLE": "Addu’a a lokacin da aka ga sabon amfanin godana",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_077.mp3",
+   "TEXT": "76.json"
+  },
+  {
+   "ID": 77,
+   "TITLE": "Addu’ar atishawa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_078.mp3",
+   "TEXT": "77.json"
+  },
+  {
+   "ID": 78,
+   "TITLE": "Abinda za’a cewa kafiri idan ya yi atishawa sa ya ce”Alhamdulillah”",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_079.mp3",
+   "TEXT": "78.json"
+  },
+  {
+   "ID": 79,
+   "TITLE": "Addu’ar da za’a yi wa ango",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_080.mp3",
+   "TEXT": "79.json"
+  },
+  {
+   "ID": 80,
+   "TITLE": "Addu’ar da ango zai yi wa kansa da kuma addu’ar sayan abin hawa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_081.mp3",
+   "TEXT": "80.json"
+  },
+  {
+   "ID": 81,
+   "TITLE": "Addu’a kafin saduwar aure",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_082.mp3",
+   "TEXT": "81.json"
+  },
+  {
+   "ID": 82,
+   "TITLE": "Addu’a a lokacin fushi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_083.mp3",
+   "TEXT": "82.json"
+  },
+  {
+   "ID": 83,
+   "TITLE": "Addu’ar wanda ya ga wanda aka jarraba",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_084.mp3",
+   "TEXT": "83.json"
+  },
+  {
+   "ID": 84,
+   "TITLE": "Abinda ake cewa a majalisi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_085.mp3",
+   "TEXT": "84.json"
+  },
+  {
+   "ID": 85,
+   "TITLE": "Kaffarar majalisi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_086.mp3",
+   "TEXT": "85.json"
+  },
+  {
+   "ID": 86,
+   "TITLE": "Addu’a ga wanda ya ce: “Allah ya gafarta maka”",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_087.mp3",
+   "TEXT": "86.json"
+  },
+  {
+   "ID": 87,
+   "TITLE": "Addu’a ga wanda ya kyautata maka",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_088.mp3",
+   "TEXT": "87.json"
+  },
+  {
+   "ID": 88,
+   "TITLE": "Zirin da Allah ya ke kare mutum daga jujal",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_089.mp3",
+   "TEXT": "88.json"
+  },
+  {
+   "ID": 89,
+   "TITLE": "Addu;a ga wanda ya ce: “Ina sonka don Allah”",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_090.mp3",
+   "TEXT": "89.json"
+  },
+  {
+   "ID": 90,
+   "TITLE": ". Addu’a ga wanda ya bijiro maka da dukiyarsa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_091.mp3",
+   "TEXT": "90.json"
+  },
+  {
+   "ID": 91,
+   "TITLE": "Addu’ar wanda ya dawo da bashi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_091.mp3",
+   "TEXT": "91.json"
+  },
+  {
+   "ID": 92,
+   "TITLE": "Addu’ar tsoron shirka",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_092.mp3",
+   "TEXT": "92.json"
+  },
+  {
+   "ID": 93,
+   "TITLE": "Addu’a ga wanda ya ce: Allah ya yi maka albarka",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_094.mp3",
+   "TEXT": "93.json"
+  },
+  {
+   "ID": 94,
+   "TITLE": "Addu’ar kyamar camfi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_095.mp3",
+   "TEXT": "94.json"
+  },
+  {
+   "ID": 95,
+   "TITLE": "Addu’ar hawa dabba ko abin hawa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_096.mp3",
+   "TEXT": "95.json"
+  },
+  {
+   "ID": 96,
+   "TITLE": ". Addu’ar tafiya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_097.mp3",
+   "TEXT": "96.json"
+  },
+  {
+   "ID": 97,
+   "TITLE": "Addu’ar shiga birni ko gari",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_098.mp3",
+   "TEXT": "97.json"
+  },
+  {
+   "ID": 98,
+   "TITLE": "Addu’ar shiga kasuwa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_099.mp3",
+   "TEXT": "98.json"
+  },
+  {
+   "ID": 99,
+   "TITLE": "Addu’a idan abin hawa ya gaza",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_100.mp3",
+   "TEXT": "99.json"
+  },
+  {
+   "ID": 100,
+   "TITLE": "Addu’ar matafiyi ga mazauni",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_101.mp3",
+   "TEXT": "100.json"
+  },
+  {
+   "ID": 101,
+   "TITLE": "Addu’ar mazauni ga matafiyi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_102.mp3",
+   "TEXT": "101.json"
+  },
+  {
+   "ID": 102,
+   "TITLE": "Kabbara da tasbihi a lokacin tafiya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_103.mp3",
+   "TEXT": "102.json"
+  },
+  {
+   "ID": 103,
+   "TITLE": "Addu’ar matafiyi idan dare ya same shi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_104.mp3",
+   "TEXT": "103.json"
+  },
+  {
+   "ID": 104,
+   "TITLE": "Addu’a idan ya isa masauki a halin tafiya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_105.mp3",
+   "TEXT": "104.json"
+  },
+  {
+   "ID": 105,
+   "TITLE": "Addu’ar dawowa daga tafiya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_106.mp3",
+   "TEXT": "105.json"
+  },
+  {
+   "ID": 106,
+   "TITLE": "Abinda zai ce wanda abin farin-ciki/damuwa ya zo mishi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_107.mp3",
+   "TEXT": "106.json"
+  },
+  {
+   "ID": 107,
+   "TITLE": "Falalar salati ga Annabi ( S.A.W)",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_108.mp3",
+   "TEXT": "107.json"
+  },
+  {
+   "ID": 108,
+   "TITLE": "Yada sallama",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_109.mp3",
+   "TEXT": "108.json"
+  },
+  {
+   "ID": 109,
+   "TITLE": "Yadda zai mayarwa kafiri sallama ida ya yi mishi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_110.mp3",
+   "TEXT": "109.json"
+  },
+  {
+   "ID": 110,
+   "TITLE": "Addu’a yayin carar zakar da kukan jaki",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_111.mp3",
+   "TEXT": "110.json"
+  },
+  {
+   "ID": 111,
+   "TITLE": "Addu’a yayin jin kukan kare da daddare",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_112.mp3",
+   "TEXT": "111.json"
+  },
+  {
+   "ID": 112,
+   "TITLE": "Addu’a ga wand aka zage shi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_113.mp3",
+   "TEXT": "112.json"
+  },
+  {
+   "ID": 113,
+   "TITLE": "Abinda musulmi zai fada idan ya yabi musulmi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_114.mp3",
+   "TEXT": "113.json"
+  },
+  {
+   "ID": 114,
+   "TITLE": "Abinda musulmi zai fada ida aka yabe shi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_115.mp3",
+   "TEXT": "114.json"
+  },
+  {
+   "ID": 115,
+   "TITLE": "Yadda mai ihrami da hajji ko umara zai yi talbiya",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_116.mp3",
+   "TEXT": "115.json"
+  },
+  {
+   "ID": 116,
+   "TITLE": "Kabbara idan ya zo rukunul aswad",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_117.mp3",
+   "TEXT": "116.json"
+  },
+  {
+   "ID": 117,
+   "TITLE": "Addu’a a tsakanin rukunul yamani da hajarul aswad",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_118.mp3",
+   "TEXT": "117.json"
+  },
+  {
+   "ID": 118,
+   "TITLE": "Addu’ar tsayuwa a safa da marwa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_119.mp3",
+   "TEXT": "118.json"
+  },
+  {
+   "ID": 119,
+   "TITLE": "Addu’a a Arafah",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_120.mp3",
+   "TEXT": "119.json"
+  },
+  {
+   "ID": 120,
+   "TITLE": "Zikiri a Muzdalifa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_121.mp3",
+   "TEXT": "120.json"
+  },
+  {
+   "ID": 121,
+   "TITLE": ". Kabbara a lokacin jifan shaidan a kowanne jifa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_122.mp3",
+   "TEXT": "121.json"
+  },
+  {
+   "ID": 122,
+   "TITLE": "Abinda zai ce alokacin mamaki da farin ciki",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_123.mp3",
+   "TEXT": "122.json"
+  },
+  {
+   "ID": 123,
+   "TITLE": "Abinda zai yi wanda abin farin ciki ya zo masa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_124.mp3",
+   "TEXT": "123.json"
+  },
+  {
+   "ID": 124,
+   "TITLE": "Abinda zai fada ya aikata wanda ya ji ciwo",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_125.mp3",
+   "TEXT": "124.json"
+  },
+  {
+   "ID": 125,
+   "TITLE": "Abinda zai fada wanda ya ji tsoron kada a kamu da kanbun bakin sa",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_126.mp3",
+   "TEXT": "125.json"
+  },
+  {
+   "ID": 126,
+   "TITLE": "Abinda zai fada alokacin firgici",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_127.mp3",
+   "TEXT": "126.json"
+  },
+  {
+   "ID": 127,
+   "TITLE": "Abinda zai fada a lokacin yanka da suka",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_128.mp3",
+   "TEXT": "127.json"
+  },
+  {
+   "ID": 128,
+   "TITLE": "Abinda zai fada domin maida sharrin miyagun shaidanu",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_129.mp3",
+   "TEXT": "128.json"
+  },
+  {
+   "ID": 129,
+   "TITLE": "Istigfari da tuba",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_130.mp3",
+   "TEXT": "129.json"
+  },
+  {
+   "ID": 130,
+   "TITLE": "Daga cikin falalar tasbihi da tahmidi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_131.mp3",
+   "TEXT": "130.json"
+  },
+  {
+   "ID": 131,
+   "TITLE": "Ya Annabi (S.A.W) ya kasance yana tasbihi",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_132.mp3",
+   "TEXT": "131.json"
+  },
+  {
+   "ID": 132,
+   "TITLE": "Daga cikin nau’ukan alherai da gunkulallun ladubba",
+   "AUDIO_URL": "http://www.hisnmuslim.com/audio/ar/ar_7esn_AlMoslem_by_Doors_133.mp3",
+   "TEXT": "132.json"
+  }
+ ]
+}

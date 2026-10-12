@@ -1,0 +1,28 @@
+{
+ "洗毕小净念的祷词": [
+  {
+   "ID": 13,
+   "ARABIC_TEXT": "(أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ..).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "我见证“除安拉外，绝无应受崇拜的，独一无偶。我又见证：穆罕默德（愿主福安之）是他的仆人与使者。（穆斯林圣训）",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/13.mp3"
+  },
+  {
+   "ID": 14,
+   "ARABIC_TEXT": "(اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ)",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "主啊！求你使我成为清洁之人，忏悔之人。（铁米集圣训)",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/14.mp3"
+  },
+  {
+   "ID": 15,
+   "ARABIC_TEXT": "(سُبْحانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتوبُ إِلَيْكَ).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "主啊！颂你清净，感赞你，我见证：唯有你才是应受崇拜的真主，我向你求饶，向你忏悔。（奈萨依圣训）",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/15.mp3"
+  }
+ ]
+}

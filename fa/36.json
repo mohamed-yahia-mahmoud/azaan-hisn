@@ -1,0 +1,28 @@
+{
+ "دعای هنگام روبرو شدن با دشمن یا صاحب قدرت": [
+  {
+   "ID": 126,
+   "ARABIC_TEXT": "((اللَّهُمَّ إِنَّا نَجْعَلُكَ فِي نُحُورِهِم، وَنَعُوذُ بِكَ مِنْ شُرُورِهِمْ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "«الهى! ما تو را در برابرشان «دشمنان» قرار می‌دهیم و از شرارت¬هاى آنها به تو پناه می‌آوریم».",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/126.mp3"
+  },
+  {
+   "ID": 127,
+   "ARABIC_TEXT": "((اللَّهُمَّ أَنْتَ عَضُدِي، وَأَنْتَ نَصِيرِي، بِكَ أَحُولُ وَبِكَ أَصُولُ، وَبِكَ أُقاتِلُ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "«الهى! تو یار و مددکار من هستى، به کمک تو تاخت و تاز می‌نمایم، و به کمک تو «بر دشمنان» حمله می‌کنم، و با مدد تو می‌جنگم».",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/127.mp3"
+  },
+  {
+   "ID": 128,
+   "ARABIC_TEXT": "((حَسْبُنا اللَّهُ وَنِعْمَ الْوَكِيلُ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "«الله براى ما کافى است، و بهترین کارساز است».",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/128.mp3"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "Súplicas para los momentos de aflicción": [
+  {
+   "ID": 122,
+   "ARABIC_TEXT": "((لاَ إِلَهَ إِلاَّ اللَّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ السَّمَوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "“No hay divinidad salvo Allah, el Grandioso, el Tolerante, no hay dios salvo Allah Señor del trono magnífico, No hay dios salvo Allah Señor de los cielos y de la tierra y Señor del trono, el Generoso.”",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/122.mp3"
+  },
+  {
+   "ID": 123,
+   "ARABIC_TEXT": "((اللَّهُمَّ رَحْمَتَكَ أَرْجُو، فَلاَ تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لاَ إِلَهَ إِلاَّ أَنْتَ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "“Oh Señor, anhelo tu misericordia, no me abandones ni por un instante, y facilita mis asuntos, no hay dios sino Tú.”",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/123.mp3"
+  },
+  {
+   "ID": 124,
+   "ARABIC_TEXT": "((لاَ إِلَهَ إِلاَّ أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظّالِمِينَ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "“No hay divinidad sino Tú, glorificado Seas, por cierto me encontraba entre los injustos.”",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/124.mp3"
+  },
+  {
+   "ID": 125,
+   "ARABIC_TEXT": "((اللَّهُ اللَّهُ رَبِّي لاَ أُشْرِكُ بِهِ شَيْئاً)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "“Allah, Allah mi Señor no le asocio nada.”",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/125.mp3"
+  }
+ ]
+}

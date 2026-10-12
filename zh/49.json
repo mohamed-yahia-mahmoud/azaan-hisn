@@ -1,0 +1,20 @@
+{
+ "探望病人时念的祷词": [
+  {
+   "ID": 147,
+   "ARABIC_TEXT": "((لاَ بأْسَ طَهُورٌ إِنْ شَاءَ اللَّهُ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "没关系，如果真主意欲这就是对你清洗罪过，罚 赎缺点。（布哈里圣训集）",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/147.mp3"
+  },
+  {
+   "ID": 148,
+   "ARABIC_TEXT": "((أَسْأَلُ اللَّهَ الْعَظيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفيَكَ)) (سبع مرات).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "我祈求伟大的、管理“阿勒史”的真主，使你痊愈。（七次）\r\n（铁密集、艾布·达伍德圣训集）",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/148.mp3"
+  }
+ ]
+}

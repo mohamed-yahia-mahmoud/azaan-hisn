@@ -1,0 +1,36 @@
+{
+ "Addu’ar kunci": [
+  {
+   "ID": 122,
+   "ARABIC_TEXT": "((لاَ إِلَهَ إِلاَّ اللَّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ السَّمَوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Babu wani Ubangiji sai Allah Mai girma kuma mai hakuri, babu wani Ubangiji sai Allah Ubangijin Al'arshi Mai girma, Babu wani Ubangiji Sai Allah Ubangijin sammai da Kasa kuma Ubangijin Al'arshi Maigirma.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/122.mp3"
+  },
+  {
+   "ID": 123,
+   "ARABIC_TEXT": "((اللَّهُمَّ رَحْمَتَكَ أَرْجُو، فَلاَ تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لاَ إِلَهَ إِلاَّ أَنْتَ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Ya Ubangiji Rahamarka nake kauna, kada kabarni da kaina ko kiftawar Ido, kuma ka ingantamun sha'anina baki daya, Babu wani Ubangiji sai kai",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/123.mp3"
+  },
+  {
+   "ID": 124,
+   "ARABIC_TEXT": "((لاَ إِلَهَ إِلاَّ أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظّالِمِينَ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Babu wani Ubangiji sai kai tsarki ya tabbata gareka lallai na kasance cikin wadanda suka zalunci kansa",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/124.mp3"
+  },
+  {
+   "ID": 125,
+   "ARABIC_TEXT": "((اللَّهُ اللَّهُ رَبِّي لاَ أُشْرِكُ بِهِ شَيْئاً)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "( Allah Allah Shine Ubangijina bana hadashi da komai a cikin bauta )",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/125.mp3"
+  }
+ ]
+}

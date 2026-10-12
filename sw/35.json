@@ -1,0 +1,36 @@
+{
+ "Dua ya kupatwa na janga au balaa": [
+  {
+   "ID": 122,
+   "ARABIC_TEXT": "((لاَ إِلَهَ إِلاَّ اللَّهُ الْعَظِيمُ الْحَلِيمُ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ الْعَرْشِ الْعَظِيمِ، لاَ إِلَهَ إِلاَّ اللَّهُ رَبُّ السَّمَوَاتِ وَرَبُّ الْأَرْضِ وَرَبُّ الْعَرْشِ الْكَرِيمِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Hapana Mola apasae kuabudiwa kwa haki ila ni Mwenyezi Mungu, aliye Mtukufu Mpole, hapana Mola apasae kuabudiwa kwa haki ila ni Mwenyezi Mungu, Mola wa arshi tukufu, Hapana Mola apasae kuabudiwa kwa haki ila ni Mwenyezi Mungu Mola wa mbingu na Mola wa ardhi na Mola wa arshi tukufu.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/122.mp3"
+  },
+  {
+   "ID": 123,
+   "ARABIC_TEXT": "((اللَّهُمَّ رَحْمَتَكَ أَرْجُو، فَلاَ تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ، لاَ إِلَهَ إِلاَّ أَنْتَ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Ewe Mwenyezi Mungu rehema zako nataraji, usinitegemeze kwenye nafsi yangu japo kwa muda wa kupepesa jicho, na unitengenezee mambo yangu yote, hapana Mola apasae kuabudiwa kwa haki ila Wewe.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/123.mp3"
+  },
+  {
+   "ID": 124,
+   "ARABIC_TEXT": "((لاَ إِلَهَ إِلاَّ أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظّالِمِينَ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Hapana Mola apasae kuabudiwa kwa haki ila Wewe, kutakasika ni kwako, hakika mimi ni miongoni mwa waliodhulumu nafsi zao.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/124.mp3"
+  },
+  {
+   "ID": 125,
+   "ARABIC_TEXT": "((اللَّهُ اللَّهُ رَبِّي لاَ أُشْرِكُ بِهِ شَيْئاً)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "Mwenyezi Mungu, Mwenyezi Mungu, Mola wangu simshirikishi na kitu chochote.",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/125.mp3"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "驱逐恶魔的蛊惑时念的祷词": [
+  {
+   "ID": 141,
+   "ARABIC_TEXT": "((الْاسْتِعَاذَةُ بِاللَّهِ مِنْهُ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "求主护佑免遭它的伤害、干扰、诱惑。\r\n（参看信士章98—99节）（艾布·达伍德、伊本·马哲圣训集）",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/141.mp3"
+  },
+  {
+   "ID": 142,
+   "ARABIC_TEXT": "الْأَذَانُ",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "宣礼词（帮克）。（布哈里、穆斯林圣训集）",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/142.mp3"
+  },
+  {
+   "ID": 143,
+   "ARABIC_TEXT": "((الْأَذْكَارُ وَقِرَاءَةُ الْقُرْآنِ)).",
+   "LANGUAGE_ARABIC_TRANSLATED_TEXT": "",
+   "TRANSLATED_TEXT": "各种记主词，颂词《古兰经》。\r\n（穆斯林圣训集）",
+   "REPEAT": 1,
+   "AUDIO": "http://www.hisnmuslim.com/audio/ar/143.mp3"
+  }
+ ]
+}
